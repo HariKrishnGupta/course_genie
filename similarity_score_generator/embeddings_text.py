@@ -20,7 +20,7 @@ df["combined"] = (
 df.head(2)
 
 # import openai
-# openai.api_key = "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"
+# openai.api_key = ""
 
 # # list models
 # models = openai.Model.list()
