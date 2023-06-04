@@ -1,0 +1,6 @@
+openai
+openai[embeddings]
+jupyter
+pandas
+tiktoken
+numpy

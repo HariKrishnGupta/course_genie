@@ -1,0 +1,1891 @@
+course_name,job_name,similarity_score
+Discrete Mathematics,Software Engineer,1.0
+Discrete Mathematics,Front-end Engineer,0.830994767055343
+Discrete Mathematics,Frontend Engineer,0.8130307705712971
+Discrete Mathematics,Back-end Engineer,0.8126832350846068
+Discrete Mathematics,Backend Engineer,0.7990581422444112
+Discrete Mathematics,Full-stack Engineer,0.7894911499025112
+Discrete Mathematics,Full Stack Engineer,0.8293248361002714
+Discrete Mathematics,DevOps Engineer,0.7827708395103952
+Discrete Mathematics,Software Reliability Engineer,0.805852719002808
+Discrete Mathematics,Cloud Engineer,0.812408056149126
+Discrete Mathematics,Cloud Architect,0.7820855372376863
+Discrete Mathematics,Solutions Engineer,0.8245334905288136
+Discrete Mathematics,Applications Engineer,0.8193416806107363
+Discrete Mathematics,Machine Learning Engineer,0.854210902787419
+Discrete Mathematics,Software Development Engineer,0.824657321500137
+Discrete Mathematics,Software Developer,0.8383676962214195
+Discrete Mathematics,Software Architect,0.794919760902584
+Discrete Mathematics,Quality Assurance,0.8288071026725718
+Discrete Mathematics,Web Developer,0.825742666454591
+Discrete Mathematics,Network Engineer,0.7798624604405995
+Discrete Mathematics,Network Technician,0.8132786542177077
+Discrete Mathematics,Hardware Engineer,0.8100433655533021
+Discrete Mathematics,Computer Scientist,0.8340814097879637
+Discrete Mathematics,Data Analyst,0.7737290073600191
+Discrete Mathematics,Data Scientist,0.8207449966012719
+Discrete Mathematics,Developer,0.778449338606908
+Discrete Mathematics,Web Engineer,0.8170962661173209
+Discrete Mathematics,Computer Engineer,0.9449673816885794
+Discrete Mathematics,Firmware Engineer,0.8519975089039384
+Discrete Mathematics,System Analyst,0.8135085902704887
+Discrete Mathematics,Test Engineer,0.8180602302792379
+Discrete Mathematics,Systems Engineer,0.8117683294960953
+Discrete Mathematics,Data Engineer,0.8279962130824572
+Discrete Mathematics,Crybersecurity Engineer,0.8300114125278557
+Discrete Mathematics,User Interface Designer,0.8179666241810856
+Introduction to Data Structures,Software Engineer,0.831331880918724
+Introduction to Data Structures,Front-end Engineer,0.9986556748896624
+Introduction to Data Structures,Frontend Engineer,0.9387897607902419
+Introduction to Data Structures,Back-end Engineer,0.8152931809115408
+Introduction to Data Structures,Backend Engineer,0.8179214886843509
+Introduction to Data Structures,Full-stack Engineer,0.9033851585953114
+Introduction to Data Structures,Full Stack Engineer,0.8346225782279844
+Introduction to Data Structures,DevOps Engineer,0.8453662528366191
+Introduction to Data Structures,Software Reliability Engineer,0.941065084802148
+Introduction to Data Structures,Cloud Engineer,0.8378185618025329
+Introduction to Data Structures,Cloud Architect,0.9096904920343495
+Introduction to Data Structures,Solutions Engineer,0.8365115674983781
+Introduction to Data Structures,Applications Engineer,0.8435005559730253
+Introduction to Data Structures,Machine Learning Engineer,0.8354022859876616
+Introduction to Data Structures,Software Development Engineer,0.8261320421268186
+Introduction to Data Structures,Software Developer,0.8080224588050551
+Introduction to Data Structures,Software Architect,0.8052410422375065
+Introduction to Data Structures,Quality Assurance,0.8335845772508533
+Introduction to Data Structures,Web Developer,0.8425613251890238
+Introduction to Data Structures,Network Engineer,0.8216941528970495
+Introduction to Data Structures,Network Technician,0.86770630793007
+Introduction to Data Structures,Hardware Engineer,0.8451677737970869
+Introduction to Data Structures,Computer Scientist,0.8368169897555385
+Introduction to Data Structures,Data Analyst,0.7627002437963483
+Introduction to Data Structures,Data Scientist,0.8619075200194781
+Introduction to Data Structures,Developer,0.886996352260035
+Introduction to Data Structures,Web Engineer,0.8890143076240442
+Introduction to Data Structures,Computer Engineer,0.8339305505707866
+Introduction to Data Structures,Firmware Engineer,0.9137407401081565
+Introduction to Data Structures,System Analyst,0.8527701838863666
+Introduction to Data Structures,Test Engineer,0.8193587143431518
+Introduction to Data Structures,Systems Engineer,0.8151962840799796
+Introduction to Data Structures,Data Engineer,0.8322996936604816
+Introduction to Data Structures,Crybersecurity Engineer,0.8324497657665104
+Introduction to Data Structures,User Interface Designer,0.9242537546526006
+Introduction to Programming,Software Engineer,0.8114450675568481
+Introduction to Programming,Front-end Engineer,0.938069302046626
+Introduction to Programming,Frontend Engineer,0.9986668628559546
+Introduction to Programming,Back-end Engineer,0.849492554230521
+Introduction to Programming,Backend Engineer,0.8475801581985467
+Introduction to Programming,Full-stack Engineer,0.9177178174087857
+Introduction to Programming,Full Stack Engineer,0.8287846126080451
+Introduction to Programming,DevOps Engineer,0.8151344922877843
+Introduction to Programming,Software Reliability Engineer,0.906095540172325
+Introduction to Programming,Cloud Engineer,0.861742983179015
+Introduction to Programming,Cloud Architect,0.9197000553344706
+Introduction to Programming,Solutions Engineer,0.8235319806381225
+Introduction to Programming,Applications Engineer,0.816259752694654
+Introduction to Programming,Machine Learning Engineer,0.8438659383760793
+Introduction to Programming,Software Development Engineer,0.8111690494107373
+Introduction to Programming,Software Developer,0.8013645055464732
+Introduction to Programming,Software Architect,0.8110833479662957
+Introduction to Programming,Quality Assurance,0.826669308052502
+Introduction to Programming,Web Developer,0.8263995457044109
+Introduction to Programming,Network Engineer,0.7951357786026201
+Introduction to Programming,Network Technician,0.8180620268719587
+Introduction to Programming,Hardware Engineer,0.8194169448964008
+Introduction to Programming,Computer Scientist,0.8226356227290477
+Introduction to Programming,Data Analyst,0.7718291353924471
+Introduction to Programming,Data Scientist,0.834699302515308
+Introduction to Programming,Developer,0.9109764320833036
+Introduction to Programming,Web Engineer,0.8539269675082228
+Introduction to Programming,Computer Engineer,0.7920573201998906
+Introduction to Programming,Firmware Engineer,0.8700616476535704
+Introduction to Programming,System Analyst,0.8602117803032266
+Introduction to Programming,Test Engineer,0.812084911132193
+Introduction to Programming,Systems Engineer,0.8244300318248079
+Introduction to Programming,Data Engineer,0.8585678907210244
+Introduction to Programming,Crybersecurity Engineer,0.8398614273203509
+Introduction to Programming,User Interface Designer,0.909621769858356
+Programming in C,Software Engineer,0.8134533379441713
+Programming in C,Front-end Engineer,0.8152833714264736
+Programming in C,Frontend Engineer,0.8515309952231902
+Programming in C,Back-end Engineer,0.9979032184671992
+Programming in C,Backend Engineer,0.8911189521724769
+Programming in C,Full-stack Engineer,0.8007896460634659
+Programming in C,Full Stack Engineer,0.8303237591749757
+Programming in C,DevOps Engineer,0.7856452347099157
+Programming in C,Software Reliability Engineer,0.7797692162870548
+Programming in C,Cloud Engineer,0.8445973013269041
+Programming in C,Cloud Architect,0.7995865749939757
+Programming in C,Solutions Engineer,0.7995692312312233
+Programming in C,Applications Engineer,0.7893806182642076
+Programming in C,Machine Learning Engineer,0.8418749938733233
+Programming in C,Software Development Engineer,0.8258167964373553
+Programming in C,Software Developer,0.8208904108189705
+Programming in C,Software Architect,0.8012392739677514
+Programming in C,Quality Assurance,0.834333980296772
+Programming in C,Web Developer,0.7915779866620004
+Programming in C,Network Engineer,0.7519774860180437
+Programming in C,Network Technician,0.7772215477232269
+Programming in C,Hardware Engineer,0.7933450207681705
+Programming in C,Computer Scientist,0.8335923796002705
+Programming in C,Data Analyst,0.7572361005593427
+Programming in C,Data Scientist,0.8101613319495824
+Programming in C,Developer,0.7909254588600281
+Programming in C,Web Engineer,0.8233702284949855
+Programming in C,Computer Engineer,0.8067489529348579
+Programming in C,Firmware Engineer,0.8297961890742536
+Programming in C,System Analyst,0.8517097816562529
+Programming in C,Test Engineer,0.8217663745484718
+Programming in C,Systems Engineer,0.8393969523684737
+Programming in C,Data Engineer,0.8799902205957919
+Programming in C,Crybersecurity Engineer,0.8547093884760821
+Programming in C,User Interface Designer,0.7958441155113718
+Programming in Java,Software Engineer,0.7990581422444112
+Programming in Java,Front-end Engineer,0.8179676898262335
+Programming in Java,Frontend Engineer,0.8475932544623702
+Programming in Java,Back-end Engineer,0.8901989338325335
+Programming in Java,Backend Engineer,1.0
+Programming in Java,Full-stack Engineer,0.7913617409165967
+Programming in Java,Full Stack Engineer,0.8291216351375368
+Programming in Java,DevOps Engineer,0.7986173216616126
+Programming in Java,Software Reliability Engineer,0.7837751296268125
+Programming in Java,Cloud Engineer,0.8369395371240331
+Programming in Java,Cloud Architect,0.791469327701104
+Programming in Java,Solutions Engineer,0.8002714721083009
+Programming in Java,Applications Engineer,0.7896311803185647
+Programming in Java,Machine Learning Engineer,0.8163518317375484
+Programming in Java,Software Development Engineer,0.8183172783486188
+Programming in Java,Software Developer,0.812009727401524
+Programming in Java,Software Architect,0.7934907108318079
+Programming in Java,Quality Assurance,0.8157428410984449
+Programming in Java,Web Developer,0.788294317838353
+Programming in Java,Network Engineer,0.7649809611440461
+Programming in Java,Network Technician,0.7921547814118438
+Programming in Java,Hardware Engineer,0.7866294801199993
+Programming in Java,Computer Scientist,0.8080816897235451
+Programming in Java,Data Analyst,0.7520759826843192
+Programming in Java,Data Scientist,0.812609387404843
+Programming in Java,Developer,0.8070395420288277
+Programming in Java,Web Engineer,0.8295658943166794
+Programming in Java,Computer Engineer,0.7863418474763819
+Programming in Java,Firmware Engineer,0.8407113860988131
+Programming in Java,System Analyst,0.8303138273780248
+Programming in Java,Test Engineer,0.8030264107790297
+Programming in Java,Systems Engineer,0.8141427576329214
+Programming in Java,Data Engineer,0.8526122376224997
+Programming in Java,Crybersecurity Engineer,0.8298872969376974
+Programming in Java,User Interface Designer,0.7951891032447305
+Introduction to Computer Graphics,Software Engineer,0.7894911499025112
+Introduction to Computer Graphics,Front-end Engineer,0.9035716571486545
+Introduction to Computer Graphics,Frontend Engineer,0.9177943888354881
+Introduction to Computer Graphics,Back-end Engineer,0.801229210803283
+Introduction to Computer Graphics,Backend Engineer,0.7913617409165967
+Introduction to Computer Graphics,Full-stack Engineer,1.0
+Introduction to Computer Graphics,Full Stack Engineer,0.8089107250824662
+Introduction to Computer Graphics,DevOps Engineer,0.8076687877011236
+Introduction to Computer Graphics,Software Reliability Engineer,0.9133959451157667
+Introduction to Computer Graphics,Cloud Engineer,0.8743456747573886
+Introduction to Computer Graphics,Cloud Architect,0.9415032732677685
+Introduction to Computer Graphics,Solutions Engineer,0.811548550517281
+Introduction to Computer Graphics,Applications Engineer,0.8165014812724769
+Introduction to Computer Graphics,Machine Learning Engineer,0.8174657014554209
+Introduction to Computer Graphics,Software Development Engineer,0.7781787248275971
+Introduction to Computer Graphics,Software Developer,0.7838736485664248
+Introduction to Computer Graphics,Software Architect,0.8027035053879962
+Introduction to Computer Graphics,Quality Assurance,0.8464067785603713
+Introduction to Computer Graphics,Web Developer,0.8086561545772117
+Introduction to Computer Graphics,Network Engineer,0.8026504792121012
+Introduction to Computer Graphics,Network Technician,0.8083825719394879
+Introduction to Computer Graphics,Hardware Engineer,0.8139024184410529
+Introduction to Computer Graphics,Computer Scientist,0.8383581061408019
+Introduction to Computer Graphics,Data Analyst,0.7496873857321866
+Introduction to Computer Graphics,Data Scientist,0.8116903117389007
+Introduction to Computer Graphics,Developer,0.8836748290220702
+Introduction to Computer Graphics,Web Engineer,0.8323492343864869
+Introduction to Computer Graphics,Computer Engineer,0.7746386330768855
+Introduction to Computer Graphics,Firmware Engineer,0.8435307875306395
+Introduction to Computer Graphics,System Analyst,0.8681133255906166
+Introduction to Computer Graphics,Test Engineer,0.7960466267743889
+Introduction to Computer Graphics,Systems Engineer,0.8023565351158044
+Introduction to Computer Graphics,Data Engineer,0.8065445684892378
+Introduction to Computer Graphics,Crybersecurity Engineer,0.8541229785515199
+Introduction to Computer Graphics,User Interface Designer,0.888904170314556
+Bioinformatics,Software Engineer,0.8293248361002714
+Bioinformatics,Front-end Engineer,0.8349728790464083
+Bioinformatics,Frontend Engineer,0.8306866497450909
+Bioinformatics,Back-end Engineer,0.829942692038015
+Bioinformatics,Backend Engineer,0.8291216351375368
+Bioinformatics,Full-stack Engineer,0.8089107250824662
+Bioinformatics,Full Stack Engineer,0.9999999676037935
+Bioinformatics,DevOps Engineer,0.8236868136006861
+Bioinformatics,Software Reliability Engineer,0.8151052198617976
+Bioinformatics,Cloud Engineer,0.8262725239278479
+Bioinformatics,Cloud Architect,0.809524818896652
+Bioinformatics,Solutions Engineer,0.8117301792023466
+Bioinformatics,Applications Engineer,0.8142506283025854
+Bioinformatics,Machine Learning Engineer,0.8416896463617654
+Bioinformatics,Software Development Engineer,0.806877581264634
+Bioinformatics,Software Developer,0.8511481989782881
+Bioinformatics,Software Architect,0.805033888176502
+Bioinformatics,Quality Assurance,0.8373466635558976
+Bioinformatics,Web Developer,0.8205440957977048
+Bioinformatics,Network Engineer,0.7737080120645768
+Bioinformatics,Network Technician,0.8240553027168103
+Bioinformatics,Hardware Engineer,0.8267960436792388
+Bioinformatics,Computer Scientist,0.8383902409829638
+Bioinformatics,Data Analyst,0.770689150337227
+Bioinformatics,Data Scientist,0.8301225048102634
+Bioinformatics,Developer,0.7932678861090063
+Bioinformatics,Web Engineer,0.8126615867415226
+Bioinformatics,Computer Engineer,0.8131712439637244
+Bioinformatics,Firmware Engineer,0.8419651634886728
+Bioinformatics,System Analyst,0.8347978707426728
+Bioinformatics,Test Engineer,0.8235849865598035
+Bioinformatics,Systems Engineer,0.82794791755542
+Bioinformatics,Data Engineer,0.8465395829592586
+Bioinformatics,Crybersecurity Engineer,0.8529108707863613
+Bioinformatics,User Interface Designer,0.8182945682458711
+Processing Big Data - Tools and Techniques,Software Engineer,0.7827708395103952
+Processing Big Data - Tools and Techniques,Front-end Engineer,0.8453198652326994
+Processing Big Data - Tools and Techniques,Frontend Engineer,0.8154933620377267
+Processing Big Data - Tools and Techniques,Back-end Engineer,0.786510798720384
+Processing Big Data - Tools and Techniques,Backend Engineer,0.7986173216616126
+Processing Big Data - Tools and Techniques,Full-stack Engineer,0.8076687877011236
+Processing Big Data - Tools and Techniques,Full Stack Engineer,0.8236868136006861
+Processing Big Data - Tools and Techniques,DevOps Engineer,0.9999999183925427
+Processing Big Data - Tools and Techniques,Software Reliability Engineer,0.8359640080262856
+Processing Big Data - Tools and Techniques,Cloud Engineer,0.8155081965253763
+Processing Big Data - Tools and Techniques,Cloud Architect,0.816333999017768
+Processing Big Data - Tools and Techniques,Solutions Engineer,0.8149456919193754
+Processing Big Data - Tools and Techniques,Applications Engineer,0.8375914494926979
+Processing Big Data - Tools and Techniques,Machine Learning Engineer,0.8074030985628264
+Processing Big Data - Tools and Techniques,Software Development Engineer,0.7770321618683684
+Processing Big Data - Tools and Techniques,Software Developer,0.8097280931462826
+Processing Big Data - Tools and Techniques,Software Architect,0.7561926092622386
+Processing Big Data - Tools and Techniques,Quality Assurance,0.8267667555083837
+Processing Big Data - Tools and Techniques,Web Developer,0.8231855468047939
+Processing Big Data - Tools and Techniques,Network Engineer,0.8154081637691099
+Processing Big Data - Tools and Techniques,Network Technician,0.8436967301940062
+Processing Big Data - Tools and Techniques,Hardware Engineer,0.8181480891967065
+Processing Big Data - Tools and Techniques,Computer Scientist,0.8287982183579592
+Processing Big Data - Tools and Techniques,Data Analyst,0.7719637926201592
+Processing Big Data - Tools and Techniques,Data Scientist,0.8265983316527887
+Processing Big Data - Tools and Techniques,Developer,0.822118311745595
+Processing Big Data - Tools and Techniques,Web Engineer,0.851606636582064
+Processing Big Data - Tools and Techniques,Computer Engineer,0.7647921801199142
+Processing Big Data - Tools and Techniques,Firmware Engineer,0.8660675917531093
+Processing Big Data - Tools and Techniques,System Analyst,0.8386472021740671
+Processing Big Data - Tools and Techniques,Test Engineer,0.7780428742171703
+Processing Big Data - Tools and Techniques,Systems Engineer,0.7768779460872998
+Processing Big Data - Tools and Techniques,Data Engineer,0.8102916060011462
+Processing Big Data - Tools and Techniques,Crybersecurity Engineer,0.8031528767070496
+Processing Big Data - Tools and Techniques,User Interface Designer,0.8395925586803727
+Introduction to Data Visualization,Software Engineer,0.805852719002808
+Introduction to Data Visualization,Front-end Engineer,0.9415760533682158
+Introduction to Data Visualization,Frontend Engineer,0.9064312599536646
+Introduction to Data Visualization,Back-end Engineer,0.7790692240323323
+Introduction to Data Visualization,Backend Engineer,0.7837751296268125
+Introduction to Data Visualization,Full-stack Engineer,0.9133959451157667
+Introduction to Data Visualization,Full Stack Engineer,0.8151052198617976
+Introduction to Data Visualization,DevOps Engineer,0.8359640080262856
+Introduction to Data Visualization,Software Reliability Engineer,1.0
+Introduction to Data Visualization,Cloud Engineer,0.8238313529021473
+Introduction to Data Visualization,Cloud Architect,0.9192295784017409
+Introduction to Data Visualization,Solutions Engineer,0.8169903162876062
+Introduction to Data Visualization,Applications Engineer,0.8241178590524177
+Introduction to Data Visualization,Machine Learning Engineer,0.8021020533076837
+Introduction to Data Visualization,Software Development Engineer,0.8014191444761278
+Introduction to Data Visualization,Software Developer,0.783851433752595
+Introduction to Data Visualization,Software Architect,0.8190079266149214
+Introduction to Data Visualization,Quality Assurance,0.8063197210126696
+Introduction to Data Visualization,Web Developer,0.8248917856648429
+Introduction to Data Visualization,Network Engineer,0.8077991996234457
+Introduction to Data Visualization,Network Technician,0.8277272680920568
+Introduction to Data Visualization,Hardware Engineer,0.8187439079797917
+Introduction to Data Visualization,Computer Scientist,0.8071833736158797
+Introduction to Data Visualization,Data Analyst,0.7508406501445157
+Introduction to Data Visualization,Data Scientist,0.8232522732136008
+Introduction to Data Visualization,Developer,0.8662988591532389
+Introduction to Data Visualization,Web Engineer,0.8487900339826323
+Introduction to Data Visualization,Computer Engineer,0.7911935825679042
+Introduction to Data Visualization,Firmware Engineer,0.8662227736803588
+Introduction to Data Visualization,System Analyst,0.8172768170251286
+Introduction to Data Visualization,Test Engineer,0.7851586543715752
+Introduction to Data Visualization,Systems Engineer,0.7797244551669917
+Introduction to Data Visualization,Data Engineer,0.7883874602205312
+Introduction to Data Visualization,Crybersecurity Engineer,0.8035134523653558
+Introduction to Data Visualization,User Interface Designer,0.8965628481169226
+Computer Game Design and Programming,Software Engineer,0.812770486801291
+Computer Game Design and Programming,Front-end Engineer,0.8384278382693864
+Computer Game Design and Programming,Frontend Engineer,0.8622850326001903
+Computer Game Design and Programming,Back-end Engineer,0.845251943728796
+Computer Game Design and Programming,Backend Engineer,0.8374079483520682
+Computer Game Design and Programming,Full-stack Engineer,0.8751756653784692
+Computer Game Design and Programming,Full Stack Engineer,0.826775568352789
+Computer Game Design and Programming,DevOps Engineer,0.816514954760367
+Computer Game Design and Programming,Software Reliability Engineer,0.8241815776507437
+Computer Game Design and Programming,Cloud Engineer,0.9988478145529367
+Computer Game Design and Programming,Cloud Architect,0.8461624044262233
+Computer Game Design and Programming,Solutions Engineer,0.8197707217687671
+Computer Game Design and Programming,Applications Engineer,0.8350262396214385
+Computer Game Design and Programming,Machine Learning Engineer,0.8344604907144388
+Computer Game Design and Programming,Software Development Engineer,0.8144297060417431
+Computer Game Design and Programming,Software Developer,0.80916581606931
+Computer Game Design and Programming,Software Architect,0.8229552621423134
+Computer Game Design and Programming,Quality Assurance,0.8764782161016781
+Computer Game Design and Programming,Web Developer,0.7999176258084575
+Computer Game Design and Programming,Network Engineer,0.7893944313236463
+Computer Game Design and Programming,Network Technician,0.8065973108040149
+Computer Game Design and Programming,Hardware Engineer,0.811243611213041
+Computer Game Design and Programming,Computer Scientist,0.8690010165839257
+Computer Game Design and Programming,Data Analyst,0.7710496231305354
+Computer Game Design and Programming,Data Scientist,0.8148234889108719
+Computer Game Design and Programming,Developer,0.8307197748385365
+Computer Game Design and Programming,Web Engineer,0.853916680018678
+Computer Game Design and Programming,Computer Engineer,0.7942261926153642
+Computer Game Design and Programming,Firmware Engineer,0.8610971226641354
+Computer Game Design and Programming,System Analyst,0.9211114390157549
+Computer Game Design and Programming,Test Engineer,0.8141476844674688
+Computer Game Design and Programming,Systems Engineer,0.8224174098425798
+Computer Game Design and Programming,Data Engineer,0.8507828117949774
+Computer Game Design and Programming,Crybersecurity Engineer,0.8914322208948964
+Computer Game Design and Programming,User Interface Designer,0.8274563600168984
+Introduction to Computer Vision,Software Engineer,0.7820855372376863
+Introduction to Computer Vision,Front-end Engineer,0.909876647206508
+Introduction to Computer Vision,Frontend Engineer,0.9197934723549919
+Introduction to Computer Vision,Back-end Engineer,0.8005166051414092
+Introduction to Computer Vision,Backend Engineer,0.791469327701104
+Introduction to Computer Vision,Full-stack Engineer,0.9415032732677685
+Introduction to Computer Vision,Full Stack Engineer,0.809524818896652
+Introduction to Computer Vision,DevOps Engineer,0.816333999017768
+Introduction to Computer Vision,Software Reliability Engineer,0.9192295784017409
+Introduction to Computer Vision,Cloud Engineer,0.8453383866692885
+Introduction to Computer Vision,Cloud Architect,1.0
+Introduction to Computer Vision,Solutions Engineer,0.8202634048998501
+Introduction to Computer Vision,Applications Engineer,0.8134982107568463
+Introduction to Computer Vision,Machine Learning Engineer,0.8188282329702073
+Introduction to Computer Vision,Software Development Engineer,0.7726151295794457
+Introduction to Computer Vision,Software Developer,0.7801102695706827
+Introduction to Computer Vision,Software Architect,0.7835651108990096
+Introduction to Computer Vision,Quality Assurance,0.8395189552145308
+Introduction to Computer Vision,Web Developer,0.8201991535085209
+Introduction to Computer Vision,Network Engineer,0.8145356556211925
+Introduction to Computer Vision,Network Technician,0.8116366247631481
+Introduction to Computer Vision,Hardware Engineer,0.8190876397343252
+Introduction to Computer Vision,Computer Scientist,0.8400212138095042
+Introduction to Computer Vision,Data Analyst,0.7502359160420393
+Introduction to Computer Vision,Data Scientist,0.815301499629806
+Introduction to Computer Vision,Developer,0.8949313301959747
+Introduction to Computer Vision,Web Engineer,0.8318800454972062
+Introduction to Computer Vision,Computer Engineer,0.7665582955566634
+Introduction to Computer Vision,Firmware Engineer,0.8418880567748309
+Introduction to Computer Vision,System Analyst,0.8576042892526462
+Introduction to Computer Vision,Test Engineer,0.7927666688128754
+Introduction to Computer Vision,Systems Engineer,0.7928453688718533
+Introduction to Computer Vision,Data Engineer,0.7971978832624187
+Introduction to Computer Vision,Crybersecurity Engineer,0.8404334992586668
+Introduction to Computer Vision,User Interface Designer,0.8943372125613964
+Topics in Artificial Intelligence,Software Engineer,0.8245334905288136
+Topics in Artificial Intelligence,Front-end Engineer,0.8368029644049885
+Topics in Artificial Intelligence,Frontend Engineer,0.8240124584272133
+Topics in Artificial Intelligence,Back-end Engineer,0.7975742227191835
+Topics in Artificial Intelligence,Backend Engineer,0.8002714721083009
+Topics in Artificial Intelligence,Full-stack Engineer,0.811548550517281
+Topics in Artificial Intelligence,Full Stack Engineer,0.8117301792023466
+Topics in Artificial Intelligence,DevOps Engineer,0.8149456919193754
+Topics in Artificial Intelligence,Software Reliability Engineer,0.8169903162876062
+Topics in Artificial Intelligence,Cloud Engineer,0.8197129812990175
+Topics in Artificial Intelligence,Cloud Architect,0.8202634048998501
+Topics in Artificial Intelligence,Solutions Engineer,0.9999999620411688
+Topics in Artificial Intelligence,Applications Engineer,0.8406605952825237
+Topics in Artificial Intelligence,Machine Learning Engineer,0.8429198278920902
+Topics in Artificial Intelligence,Software Development Engineer,0.814705125961003
+Topics in Artificial Intelligence,Software Developer,0.8024002875763663
+Topics in Artificial Intelligence,Software Architect,0.802231101310346
+Topics in Artificial Intelligence,Quality Assurance,0.842048237977532
+Topics in Artificial Intelligence,Web Developer,0.9237577020967891
+Topics in Artificial Intelligence,Network Engineer,0.8363751281248875
+Topics in Artificial Intelligence,Network Technician,0.8666755810121556
+Topics in Artificial Intelligence,Hardware Engineer,0.8894628390501005
+Topics in Artificial Intelligence,Computer Scientist,0.8333404726589856
+Topics in Artificial Intelligence,Data Analyst,0.7887309787076995
+Topics in Artificial Intelligence,Data Scientist,0.801067144551348
+Topics in Artificial Intelligence,Developer,0.7991712423841838
+Topics in Artificial Intelligence,Web Engineer,0.8321590054249455
+Topics in Artificial Intelligence,Computer Engineer,0.8132014197070747
+Topics in Artificial Intelligence,Firmware Engineer,0.8483211005766084
+Topics in Artificial Intelligence,System Analyst,0.8283225133242409
+Topics in Artificial Intelligence,Test Engineer,0.8052305937951961
+Topics in Artificial Intelligence,Systems Engineer,0.8063035453131036
+Topics in Artificial Intelligence,Data Engineer,0.8111981751932855
+Topics in Artificial Intelligence,Crybersecurity Engineer,0.8211898460568432
+Topics in Artificial Intelligence,User Interface Designer,0.8493683942392015
+Design and Analysis of Algorithms,Software Engineer,0.8193416806107363
+Design and Analysis of Algorithms,Front-end Engineer,0.8431035779852531
+Design and Analysis of Algorithms,Frontend Engineer,0.8163335733814145
+Design and Analysis of Algorithms,Back-end Engineer,0.7905239288918928
+Design and Analysis of Algorithms,Backend Engineer,0.7896311803185647
+Design and Analysis of Algorithms,Full-stack Engineer,0.8165014812724769
+Design and Analysis of Algorithms,Full Stack Engineer,0.8142506283025854
+Design and Analysis of Algorithms,DevOps Engineer,0.8375914494926979
+Design and Analysis of Algorithms,Software Reliability Engineer,0.8241178590524177
+Design and Analysis of Algorithms,Cloud Engineer,0.8344565263249085
+Design and Analysis of Algorithms,Cloud Architect,0.8134982107568463
+Design and Analysis of Algorithms,Solutions Engineer,0.8406605952825237
+Design and Analysis of Algorithms,Applications Engineer,0.9999999926845277
+Design and Analysis of Algorithms,Machine Learning Engineer,0.8387977408864304
+Design and Analysis of Algorithms,Software Development Engineer,0.8005224880358659
+Design and Analysis of Algorithms,Software Developer,0.7817681988911629
+Design and Analysis of Algorithms,Software Architect,0.7772416228517236
+Design and Analysis of Algorithms,Quality Assurance,0.8396600607451576
+Design and Analysis of Algorithms,Web Developer,0.8214532671148751
+Design and Analysis of Algorithms,Network Engineer,0.8030950037579232
+Design and Analysis of Algorithms,Network Technician,0.8423810699524625
+Design and Analysis of Algorithms,Hardware Engineer,0.8098407123065758
+Design and Analysis of Algorithms,Computer Scientist,0.8472532749836368
+Design and Analysis of Algorithms,Data Analyst,0.7825108627058983
+Design and Analysis of Algorithms,Data Scientist,0.8232993611376638
+Design and Analysis of Algorithms,Developer,0.8103785286024097
+Design and Analysis of Algorithms,Web Engineer,0.8482973133872681
+Design and Analysis of Algorithms,Computer Engineer,0.7920711334017709
+Design and Analysis of Algorithms,Firmware Engineer,0.8660672390806301
+Design and Analysis of Algorithms,System Analyst,0.8368190154927068
+Design and Analysis of Algorithms,Test Engineer,0.7767201952255776
+Design and Analysis of Algorithms,Systems Engineer,0.7758237411348641
+Design and Analysis of Algorithms,Data Engineer,0.799156950383421
+Design and Analysis of Algorithms,Crybersecurity Engineer,0.8060730122024627
+Design and Analysis of Algorithms,User Interface Designer,0.923395895057811
+Theory of Computation,Software Engineer,0.854210902787419
+Theory of Computation,Front-end Engineer,0.8354131003941303
+Theory of Computation,Frontend Engineer,0.844480453519647
+Theory of Computation,Back-end Engineer,0.8409709615321106
+Theory of Computation,Backend Engineer,0.8163518317375484
+Theory of Computation,Full-stack Engineer,0.8174657014554209
+Theory of Computation,Full Stack Engineer,0.8416896463617654
+Theory of Computation,DevOps Engineer,0.8074030985628264
+Theory of Computation,Software Reliability Engineer,0.8021020533076837
+Theory of Computation,Cloud Engineer,0.8342733389021386
+Theory of Computation,Cloud Architect,0.8188282329702073
+Theory of Computation,Solutions Engineer,0.8429198278920902
+Theory of Computation,Applications Engineer,0.8387977408864304
+Theory of Computation,Machine Learning Engineer,1.0
+Theory of Computation,Software Development Engineer,0.8152850372881333
+Theory of Computation,Software Developer,0.8552526957140654
+Theory of Computation,Software Architect,0.7914285424404053
+Theory of Computation,Quality Assurance,0.8538585062105093
+Theory of Computation,Web Developer,0.8350912688603411
+Theory of Computation,Network Engineer,0.7806106933011843
+Theory of Computation,Network Technician,0.8297860258402938
+Theory of Computation,Hardware Engineer,0.8307616830958306
+Theory of Computation,Computer Scientist,0.8607569833929944
+Theory of Computation,Data Analyst,0.7765223342243626
+Theory of Computation,Data Scientist,0.8359405732302593
+Theory of Computation,Developer,0.8065700146998938
+Theory of Computation,Web Engineer,0.8274240300245876
+Theory of Computation,Computer Engineer,0.8244888653558913
+Theory of Computation,Firmware Engineer,0.8545880768818591
+Theory of Computation,System Analyst,0.860822704525498
+Theory of Computation,Test Engineer,0.8083052239061913
+Theory of Computation,Systems Engineer,0.8314349319199892
+Theory of Computation,Data Engineer,0.8492865892143586
+Theory of Computation,Crybersecurity Engineer,0.8682559919407045
+Theory of Computation,User Interface Designer,0.8456193981394022
+Object-Oriented Design,Software Engineer,0.824657321500137
+Object-Oriented Design,Front-end Engineer,0.8263873679862349
+Object-Oriented Design,Frontend Engineer,0.8136456135781263
+Object-Oriented Design,Back-end Engineer,0.8260055543995735
+Object-Oriented Design,Backend Engineer,0.8183172783486188
+Object-Oriented Design,Full-stack Engineer,0.7781787248275971
+Object-Oriented Design,Full Stack Engineer,0.806877581264634
+Object-Oriented Design,DevOps Engineer,0.7770321618683684
+Object-Oriented Design,Software Reliability Engineer,0.8014191444761278
+Object-Oriented Design,Cloud Engineer,0.8154492639894899
+Object-Oriented Design,Cloud Architect,0.7726151295794457
+Object-Oriented Design,Solutions Engineer,0.814705125961003
+Object-Oriented Design,Applications Engineer,0.8005224880358659
+Object-Oriented Design,Machine Learning Engineer,0.8152850372881333
+Object-Oriented Design,Software Development Engineer,0.9999999965105839
+Object-Oriented Design,Software Developer,0.8132082606861819
+Object-Oriented Design,Software Architect,0.8487870308010808
+Object-Oriented Design,Quality Assurance,0.8067720068420914
+Object-Oriented Design,Web Developer,0.7960869740086788
+Object-Oriented Design,Network Engineer,0.7409764697787101
+Object-Oriented Design,Network Technician,0.7949065909162205
+Object-Oriented Design,Hardware Engineer,0.7906313135224479
+Object-Oriented Design,Computer Scientist,0.7883477820197948
+Object-Oriented Design,Data Analyst,0.7664073733893035
+Object-Oriented Design,Data Scientist,0.8090392799569646
+Object-Oriented Design,Developer,0.7534573684295507
+Object-Oriented Design,Web Engineer,0.8965746642723744
+Object-Oriented Design,Computer Engineer,0.8379668490285602
+Object-Oriented Design,Firmware Engineer,0.8336429117651816
+Object-Oriented Design,System Analyst,0.811476482446043
+Object-Oriented Design,Test Engineer,0.8175247319688164
+Object-Oriented Design,Systems Engineer,0.8283543414656043
+Object-Oriented Design,Data Engineer,0.8354091055345175
+Object-Oriented Design,Crybersecurity Engineer,0.8183778007949161
+Object-Oriented Design,User Interface Designer,0.7845583483662923
+Distributed Computing,Software Engineer,0.8383061663854494
+Distributed Computing,Front-end Engineer,0.8086336130995665
+Distributed Computing,Frontend Engineer,0.8047186201331946
+Distributed Computing,Back-end Engineer,0.8212933702014291
+Distributed Computing,Backend Engineer,0.8116065755947477
+Distributed Computing,Full-stack Engineer,0.7848772078449391
+Distributed Computing,Full Stack Engineer,0.8517049035403987
+Distributed Computing,DevOps Engineer,0.8103243523387835
+Distributed Computing,Software Reliability Engineer,0.7837987678252908
+Distributed Computing,Cloud Engineer,0.80964341492165
+Distributed Computing,Cloud Architect,0.7810069977371029
+Distributed Computing,Solutions Engineer,0.8033416827650826
+Distributed Computing,Applications Engineer,0.781593238194791
+Distributed Computing,Machine Learning Engineer,0.8553830000643375
+Distributed Computing,Software Development Engineer,0.8133808892397979
+Distributed Computing,Software Developer,0.9986428010210431
+Distributed Computing,Software Architect,0.7931763963237215
+Distributed Computing,Quality Assurance,0.8515545019853046
+Distributed Computing,Web Developer,0.7989167977140283
+Distributed Computing,Network Engineer,0.7607565344913797
+Distributed Computing,Network Technician,0.8102721179869387
+Distributed Computing,Hardware Engineer,0.8030740619250638
+Distributed Computing,Computer Scientist,0.8308247821817785
+Distributed Computing,Data Analyst,0.8121016554829066
+Distributed Computing,Data Scientist,0.8278300498534772
+Distributed Computing,Developer,0.7669883374329435
+Distributed Computing,Web Engineer,0.7952497899650348
+Distributed Computing,Computer Engineer,0.8334486623253222
+Distributed Computing,Firmware Engineer,0.8199323035380852
+Distributed Computing,System Analyst,0.8337885352333756
+Distributed Computing,Test Engineer,0.8283904929340851
+Distributed Computing,Systems Engineer,0.8557561109082586
+Distributed Computing,Data Engineer,0.8496355363500936
+Distributed Computing,Crybersecurity Engineer,0.8600654857573808
+Distributed Computing,User Interface Designer,0.7751536190667627
+User Interface Design,Software Engineer,0.7961778711349928
+User Interface Design,Front-end Engineer,0.8061145735463842
+User Interface Design,Frontend Engineer,0.8139320127186074
+User Interface Design,Back-end Engineer,0.8005567625840189
+User Interface Design,Backend Engineer,0.7936717303383187
+User Interface Design,Full-stack Engineer,0.8036217817299938
+User Interface Design,Full Stack Engineer,0.8053030452695221
+User Interface Design,DevOps Engineer,0.7570866193594541
+User Interface Design,Software Reliability Engineer,0.8200627517506185
+User Interface Design,Cloud Engineer,0.8231239830654542
+User Interface Design,Cloud Architect,0.7835963989546965
+User Interface Design,Solutions Engineer,0.8036621468503535
+User Interface Design,Applications Engineer,0.7772371330632744
+User Interface Design,Machine Learning Engineer,0.7926414074773602
+User Interface Design,Software Development Engineer,0.8491075215629149
+User Interface Design,Software Developer,0.7936697302874695
+User Interface Design,Software Architect,0.998321080838151
+User Interface Design,Quality Assurance,0.8149382618313368
+User Interface Design,Web Developer,0.7827715318130248
+User Interface Design,Network Engineer,0.7435793326600648
+User Interface Design,Network Technician,0.7786575850528429
+User Interface Design,Hardware Engineer,0.785650860266558
+User Interface Design,Computer Scientist,0.7760660529083206
+User Interface Design,Data Analyst,0.7556559881084104
+User Interface Design,Data Scientist,0.7927700252629741
+User Interface Design,Developer,0.754558658005025
+User Interface Design,Web Engineer,0.790150865346117
+User Interface Design,Computer Engineer,0.7939853288975611
+User Interface Design,Firmware Engineer,0.7964717794075312
+User Interface Design,System Analyst,0.8119538941797787
+User Interface Design,Test Engineer,0.8166282696535776
+User Interface Design,Systems Engineer,0.8324875690615581
+User Interface Design,Data Engineer,0.8192890647166728
+User Interface Design,Crybersecurity Engineer,0.8407591618381725
+User Interface Design,User Interface Designer,0.7775689335387906
+Advanced Computer Architecture,Software Engineer,0.8288071026725718
+Advanced Computer Architecture,Front-end Engineer,0.8337780440730506
+Advanced Computer Architecture,Frontend Engineer,0.8280305468324706
+Advanced Computer Architecture,Back-end Engineer,0.8335540047062411
+Advanced Computer Architecture,Backend Engineer,0.8157428410984449
+Advanced Computer Architecture,Full-stack Engineer,0.8464067785603713
+Advanced Computer Architecture,Full Stack Engineer,0.8373466635558976
+Advanced Computer Architecture,DevOps Engineer,0.8267667555083837
+Advanced Computer Architecture,Software Reliability Engineer,0.8063197210126696
+Advanced Computer Architecture,Cloud Engineer,0.8760080954095371
+Advanced Computer Architecture,Cloud Architect,0.8395189552145308
+Advanced Computer Architecture,Solutions Engineer,0.842048237977532
+Advanced Computer Architecture,Applications Engineer,0.8396600607451576
+Advanced Computer Architecture,Machine Learning Engineer,0.8538585062105093
+Advanced Computer Architecture,Software Development Engineer,0.8067720068420914
+Advanced Computer Architecture,Software Developer,0.8502603585878618
+Advanced Computer Architecture,Software Architect,0.8140316290631555
+Advanced Computer Architecture,Quality Assurance,1.0
+Advanced Computer Architecture,Web Developer,0.8143342240229745
+Advanced Computer Architecture,Network Engineer,0.7964651395210498
+Advanced Computer Architecture,Network Technician,0.8169953855298993
+Advanced Computer Architecture,Hardware Engineer,0.8236234573286786
+Advanced Computer Architecture,Computer Scientist,0.8729444609112529
+Advanced Computer Architecture,Data Analyst,0.8720477143350729
+Advanced Computer Architecture,Data Scientist,0.8335129714484086
+Advanced Computer Architecture,Developer,0.8094395033954315
+Advanced Computer Architecture,Web Engineer,0.8390948759844776
+Advanced Computer Architecture,Computer Engineer,0.815322160683049
+Advanced Computer Architecture,Firmware Engineer,0.8533793705425361
+Advanced Computer Architecture,System Analyst,0.9024881690177585
+Advanced Computer Architecture,Test Engineer,0.8350160231376451
+Advanced Computer Architecture,Systems Engineer,0.8460150757903802
+Advanced Computer Architecture,Data Engineer,0.8526979774635541
+Advanced Computer Architecture,Crybersecurity Engineer,0.9278906755376337
+Advanced Computer Architecture,User Interface Designer,0.8351229002900467
+Topics in Machine Learning,Software Engineer,0.825742666454591
+Topics in Machine Learning,Front-end Engineer,0.8426912375068905
+Topics in Machine Learning,Frontend Engineer,0.8274243702333547
+Topics in Machine Learning,Back-end Engineer,0.7909931115727755
+Topics in Machine Learning,Backend Engineer,0.788294317838353
+Topics in Machine Learning,Full-stack Engineer,0.8086561545772117
+Topics in Machine Learning,Full Stack Engineer,0.8205440957977048
+Topics in Machine Learning,DevOps Engineer,0.8231855468047939
+Topics in Machine Learning,Software Reliability Engineer,0.8248917856648429
+Topics in Machine Learning,Cloud Engineer,0.7996808482038886
+Topics in Machine Learning,Cloud Architect,0.8201991535085209
+Topics in Machine Learning,Solutions Engineer,0.9237577020967891
+Topics in Machine Learning,Applications Engineer,0.8214532671148751
+Topics in Machine Learning,Machine Learning Engineer,0.8350912688603411
+Topics in Machine Learning,Software Development Engineer,0.7960869740086788
+Topics in Machine Learning,Software Developer,0.7982675971410891
+Topics in Machine Learning,Software Architect,0.7822385708755666
+Topics in Machine Learning,Quality Assurance,0.8143342240229745
+Topics in Machine Learning,Web Developer,0.9999999701925182
+Topics in Machine Learning,Network Engineer,0.8538735269045141
+Topics in Machine Learning,Network Technician,0.8825529284547016
+Topics in Machine Learning,Hardware Engineer,0.8769797500807839
+Topics in Machine Learning,Computer Scientist,0.815982850251671
+Topics in Machine Learning,Data Analyst,0.7635992996928704
+Topics in Machine Learning,Data Scientist,0.812231202988769
+Topics in Machine Learning,Developer,0.8073766279740526
+Topics in Machine Learning,Web Engineer,0.8191177421535871
+Topics in Machine Learning,Computer Engineer,0.7991820426748055
+Topics in Machine Learning,Firmware Engineer,0.8478990121266209
+Topics in Machine Learning,System Analyst,0.8163969521987886
+Topics in Machine Learning,Test Engineer,0.8000908223088552
+Topics in Machine Learning,Systems Engineer,0.7962592509744494
+Topics in Machine Learning,Data Engineer,0.8128082044596006
+Topics in Machine Learning,Crybersecurity Engineer,0.8157557040682364
+Topics in Machine Learning,User Interface Designer,0.8434989585659254
+Topics in Wireless Mobile Networking,Software Engineer,0.7798624604405995
+Topics in Wireless Mobile Networking,Front-end Engineer,0.8214362979234042
+Topics in Wireless Mobile Networking,Frontend Engineer,0.7952976400441119
+Topics in Wireless Mobile Networking,Back-end Engineer,0.7522154086320717
+Topics in Wireless Mobile Networking,Backend Engineer,0.7649809611440461
+Topics in Wireless Mobile Networking,Full-stack Engineer,0.8026504792121012
+Topics in Wireless Mobile Networking,Full Stack Engineer,0.7737080120645768
+Topics in Wireless Mobile Networking,DevOps Engineer,0.8154081637691099
+Topics in Wireless Mobile Networking,Software Reliability Engineer,0.8077991996234457
+Topics in Wireless Mobile Networking,Cloud Engineer,0.7880984008060448
+Topics in Wireless Mobile Networking,Cloud Architect,0.8145356556211925
+Topics in Wireless Mobile Networking,Solutions Engineer,0.8363751281248875
+Topics in Wireless Mobile Networking,Applications Engineer,0.8030950037579232
+Topics in Wireless Mobile Networking,Machine Learning Engineer,0.7806106933011843
+Topics in Wireless Mobile Networking,Software Development Engineer,0.7409764697787101
+Topics in Wireless Mobile Networking,Software Developer,0.7600706659604735
+Topics in Wireless Mobile Networking,Software Architect,0.7431800515471205
+Topics in Wireless Mobile Networking,Quality Assurance,0.7964651395210498
+Topics in Wireless Mobile Networking,Web Developer,0.8538735269045141
+Topics in Wireless Mobile Networking,Network Engineer,0.9999999671851605
+Topics in Wireless Mobile Networking,Network Technician,0.856689047430041
+Topics in Wireless Mobile Networking,Hardware Engineer,0.8629965613562147
+Topics in Wireless Mobile Networking,Computer Scientist,0.8245557170132514
+Topics in Wireless Mobile Networking,Data Analyst,0.7266074955237951
+Topics in Wireless Mobile Networking,Data Scientist,0.7946166176742457
+Topics in Wireless Mobile Networking,Developer,0.8046847189551707
+Topics in Wireless Mobile Networking,Web Engineer,0.8156848497115781
+Topics in Wireless Mobile Networking,Computer Engineer,0.7599645582649164
+Topics in Wireless Mobile Networking,Firmware Engineer,0.8326500830108283
+Topics in Wireless Mobile Networking,System Analyst,0.807174862554293
+Topics in Wireless Mobile Networking,Test Engineer,0.7741890003125682
+Topics in Wireless Mobile Networking,Systems Engineer,0.7654545933296433
+Topics in Wireless Mobile Networking,Data Engineer,0.7647972204515417
+Topics in Wireless Mobile Networking,Crybersecurity Engineer,0.7744087085792488
+Topics in Wireless Mobile Networking,User Interface Designer,0.8286914721591024
+Topics in Database Systems,Software Engineer,0.8132786542177077
+Topics in Database Systems,Front-end Engineer,0.8668210991725234
+Topics in Database Systems,Frontend Engineer,0.818421980777648
+Topics in Database Systems,Back-end Engineer,0.7766615905348203
+Topics in Database Systems,Backend Engineer,0.7921547814118438
+Topics in Database Systems,Full-stack Engineer,0.8083825719394879
+Topics in Database Systems,Full Stack Engineer,0.8240553027168103
+Topics in Database Systems,DevOps Engineer,0.8436967301940062
+Topics in Database Systems,Software Reliability Engineer,0.8277272680920568
+Topics in Database Systems,Cloud Engineer,0.8058158150826491
+Topics in Database Systems,Cloud Architect,0.8116366247631481
+Topics in Database Systems,Solutions Engineer,0.8666755810121556
+Topics in Database Systems,Applications Engineer,0.8423810699524625
+Topics in Database Systems,Machine Learning Engineer,0.8297860258402938
+Topics in Database Systems,Software Development Engineer,0.7949065909162205
+Topics in Database Systems,Software Developer,0.8099609350177782
+Topics in Database Systems,Software Architect,0.7782537479848795
+Topics in Database Systems,Quality Assurance,0.8169953855298993
+Topics in Database Systems,Web Developer,0.8825529284547016
+Topics in Database Systems,Network Engineer,0.856689047430041
+Topics in Database Systems,Network Technician,0.999999968001221
+Topics in Database Systems,Hardware Engineer,0.8953677973393698
+Topics in Database Systems,Computer Scientist,0.8344291782433176
+Topics in Database Systems,Data Analyst,0.7468491681943674
+Topics in Database Systems,Data Scientist,0.9013083198416203
+Topics in Database Systems,Developer,0.8054891182766044
+Topics in Database Systems,Web Engineer,0.8375540832050004
+Topics in Database Systems,Computer Engineer,0.7983122062189394
+Topics in Database Systems,Firmware Engineer,0.8744621503980521
+Topics in Database Systems,System Analyst,0.8399601174321751
+Topics in Database Systems,Test Engineer,0.8075269277609614
+Topics in Database Systems,Systems Engineer,0.8066684805795079
+Topics in Database Systems,Data Engineer,0.8231544161720311
+Topics in Database Systems,Crybersecurity Engineer,0.8096500655963738
+Topics in Database Systems,User Interface Designer,0.841565147854527
+Topics in Information Security,Software Engineer,0.8100433655533021
+Topics in Information Security,Front-end Engineer,0.8448611344705296
+Topics in Information Security,Frontend Engineer,0.8199816613771296
+Topics in Information Security,Back-end Engineer,0.7929980017948906
+Topics in Information Security,Backend Engineer,0.7866294801199993
+Topics in Information Security,Full-stack Engineer,0.8139024184410529
+Topics in Information Security,Full Stack Engineer,0.8267960436792388
+Topics in Information Security,DevOps Engineer,0.8181480891967065
+Topics in Information Security,Software Reliability Engineer,0.8187439079797917
+Topics in Information Security,Cloud Engineer,0.8100878989041422
+Topics in Information Security,Cloud Architect,0.8190876397343252
+Topics in Information Security,Solutions Engineer,0.8894628390501005
+Topics in Information Security,Applications Engineer,0.8098407123065758
+Topics in Information Security,Machine Learning Engineer,0.8307616830958306
+Topics in Information Security,Software Development Engineer,0.7906313135224479
+Topics in Information Security,Software Developer,0.8018849665414318
+Topics in Information Security,Software Architect,0.7851529108277031
+Topics in Information Security,Quality Assurance,0.8236234573286786
+Topics in Information Security,Web Developer,0.8769797500807839
+Topics in Information Security,Network Engineer,0.8629965613562147
+Topics in Information Security,Network Technician,0.8953677973393698
+Topics in Information Security,Hardware Engineer,0.9999999088353555
+Topics in Information Security,Computer Scientist,0.8876627678306138
+Topics in Information Security,Data Analyst,0.7419289249215155
+Topics in Information Security,Data Scientist,0.8255805735882897
+Topics in Information Security,Developer,0.7953342382268509
+Topics in Information Security,Web Engineer,0.820901729979088
+Topics in Information Security,Computer Engineer,0.7994617406613544
+Topics in Information Security,Firmware Engineer,0.8419307524276662
+Topics in Information Security,System Analyst,0.8388915647362822
+Topics in Information Security,Test Engineer,0.8125487966195588
+Topics in Information Security,Systems Engineer,0.8160566792322238
+Topics in Information Security,Data Engineer,0.821755779359628
+Topics in Information Security,Crybersecurity Engineer,0.8228363976321607
+Topics in Information Security,User Interface Designer,0.830339177423316
+Cryptography and Computer Security,Software Engineer,0.834286508590773
+Cryptography and Computer Security,Front-end Engineer,0.8372943469548593
+Cryptography and Computer Security,Frontend Engineer,0.8249382069593091
+Cryptography and Computer Security,Back-end Engineer,0.8346941637321909
+Cryptography and Computer Security,Backend Engineer,0.8085398646582962
+Cryptography and Computer Security,Full-stack Engineer,0.8383047970782449
+Cryptography and Computer Security,Full Stack Engineer,0.838957869623179
+Cryptography and Computer Security,DevOps Engineer,0.8293025175818205
+Cryptography and Computer Security,Software Reliability Engineer,0.8071861745517765
+Cryptography and Computer Security,Cloud Engineer,0.8677432369386483
+Cryptography and Computer Security,Cloud Architect,0.8403340743731871
+Cryptography and Computer Security,Solutions Engineer,0.8332326775449812
+Cryptography and Computer Security,Applications Engineer,0.8479283963494393
+Cryptography and Computer Security,Machine Learning Engineer,0.8615254541977027
+Cryptography and Computer Security,Software Development Engineer,0.7894007721992371
+Cryptography and Computer Security,Software Developer,0.8308778842912674
+Cryptography and Computer Security,Software Architect,0.7760966958018847
+Cryptography and Computer Security,Quality Assurance,0.873045572262479
+Cryptography and Computer Security,Web Developer,0.8161834630378149
+Cryptography and Computer Security,Network Engineer,0.8254314450113173
+Cryptography and Computer Security,Network Technician,0.8353303454170459
+Cryptography and Computer Security,Hardware Engineer,0.8883192904334193
+Cryptography and Computer Security,Computer Scientist,0.9986661580550946
+Cryptography and Computer Security,Data Analyst,0.7672292980511837
+Cryptography and Computer Security,Data Scientist,0.8432732491759957
+Cryptography and Computer Security,Developer,0.8177168713108788
+Cryptography and Computer Security,Web Engineer,0.8585951904265642
+Cryptography and Computer Security,Computer Engineer,0.8204349204454142
+Cryptography and Computer Security,Firmware Engineer,0.8679715104288025
+Cryptography and Computer Security,System Analyst,0.8935919820055469
+Cryptography and Computer Security,Test Engineer,0.8249070059922403
+Cryptography and Computer Security,Systems Engineer,0.8276827498580679
+Cryptography and Computer Security,Data Engineer,0.8372945322260308
+Cryptography and Computer Security,Crybersecurity Engineer,0.8648266240933498
+Cryptography and Computer Security,User Interface Designer,0.8430214738347528
+Advanced Parallel Processing,Software Engineer,0.7737290073600191
+Advanced Parallel Processing,Front-end Engineer,0.7631061365382307
+Advanced Parallel Processing,Frontend Engineer,0.7742571015519865
+Advanced Parallel Processing,Back-end Engineer,0.7563404352127026
+Advanced Parallel Processing,Backend Engineer,0.7520759826843192
+Advanced Parallel Processing,Full-stack Engineer,0.7496873857321866
+Advanced Parallel Processing,Full Stack Engineer,0.770689150337227
+Advanced Parallel Processing,DevOps Engineer,0.7719637926201592
+Advanced Parallel Processing,Software Reliability Engineer,0.7508406501445157
+Advanced Parallel Processing,Cloud Engineer,0.7713227413275141
+Advanced Parallel Processing,Cloud Architect,0.7502359160420393
+Advanced Parallel Processing,Solutions Engineer,0.7887309787076995
+Advanced Parallel Processing,Applications Engineer,0.7825108627058983
+Advanced Parallel Processing,Machine Learning Engineer,0.7765223342243626
+Advanced Parallel Processing,Software Development Engineer,0.7664073733893035
+Advanced Parallel Processing,Software Developer,0.8110809323991932
+Advanced Parallel Processing,Software Architect,0.7535995418641661
+Advanced Parallel Processing,Quality Assurance,0.8720477143350729
+Advanced Parallel Processing,Web Developer,0.7635992996928704
+Advanced Parallel Processing,Network Engineer,0.7266074955237951
+Advanced Parallel Processing,Network Technician,0.7468491681943674
+Advanced Parallel Processing,Hardware Engineer,0.7419289249215155
+Advanced Parallel Processing,Computer Scientist,0.7667365993339919
+Advanced Parallel Processing,Data Analyst,0.9999999314064831
+Advanced Parallel Processing,Data Scientist,0.7743004782867688
+Advanced Parallel Processing,Developer,0.7453198292764729
+Advanced Parallel Processing,Web Engineer,0.770549437702116
+Advanced Parallel Processing,Computer Engineer,0.7716376016945157
+Advanced Parallel Processing,Firmware Engineer,0.7843131402113381
+Advanced Parallel Processing,System Analyst,0.7870481212555117
+Advanced Parallel Processing,Test Engineer,0.7659756051990978
+Advanced Parallel Processing,Systems Engineer,0.7721114126128482
+Advanced Parallel Processing,Data Engineer,0.7997183650281161
+Advanced Parallel Processing,Crybersecurity Engineer,0.7963401641195736
+Advanced Parallel Processing,User Interface Designer,0.7736482769189199
+Database System Principles,Software Engineer,0.8207449966012719
+Database System Principles,Front-end Engineer,0.8611697616807824
+Database System Principles,Frontend Engineer,0.8365988725627873
+Database System Principles,Back-end Engineer,0.8095503925062042
+Database System Principles,Backend Engineer,0.812609387404843
+Database System Principles,Full-stack Engineer,0.8116903117389007
+Database System Principles,Full Stack Engineer,0.8301225048102634
+Database System Principles,DevOps Engineer,0.8265983316527887
+Database System Principles,Software Reliability Engineer,0.8232522732136008
+Database System Principles,Cloud Engineer,0.814437466607371
+Database System Principles,Cloud Architect,0.815301499629806
+Database System Principles,Solutions Engineer,0.801067144551348
+Database System Principles,Applications Engineer,0.8232993611376638
+Database System Principles,Machine Learning Engineer,0.8359405732302593
+Database System Principles,Software Development Engineer,0.8090392799569646
+Database System Principles,Software Developer,0.8277503214710691
+Database System Principles,Software Architect,0.792232648450335
+Database System Principles,Quality Assurance,0.8335129714484086
+Database System Principles,Web Developer,0.812231202988769
+Database System Principles,Network Engineer,0.7946166176742457
+Database System Principles,Network Technician,0.9013083198416203
+Database System Principles,Hardware Engineer,0.8255805735882897
+Database System Principles,Computer Scientist,0.8423037873116677
+Database System Principles,Data Analyst,0.7743004782867688
+Database System Principles,Data Scientist,1.0
+Database System Principles,Developer,0.807811080776315
+Database System Principles,Web Engineer,0.830981487268984
+Database System Principles,Computer Engineer,0.8127905455985402
+Database System Principles,Firmware Engineer,0.8673911098390943
+Database System Principles,System Analyst,0.8537623516368751
+Database System Principles,Test Engineer,0.82206727432299
+Database System Principles,Systems Engineer,0.829553909949521
+Database System Principles,Data Engineer,0.8592118785393369
+Database System Principles,Crybersecurity Engineer,0.8427191426396936
+Database System Principles,User Interface Designer,0.8300456424698655
+Introduction to Computing Using Python,Software Engineer,0.778449338606908
+Introduction to Computing Using Python,Front-end Engineer,0.8881938692239284
+Introduction to Computing Using Python,Frontend Engineer,0.9093413998618367
+Introduction to Computing Using Python,Back-end Engineer,0.7914193693221578
+Introduction to Computing Using Python,Backend Engineer,0.8070395420288277
+Introduction to Computing Using Python,Full-stack Engineer,0.8836748290220702
+Introduction to Computing Using Python,Full Stack Engineer,0.7932678861090063
+Introduction to Computing Using Python,DevOps Engineer,0.822118311745595
+Introduction to Computing Using Python,Software Reliability Engineer,0.8662988591532389
+Introduction to Computing Using Python,Cloud Engineer,0.8296447577685172
+Introduction to Computing Using Python,Cloud Architect,0.8949313301959747
+Introduction to Computing Using Python,Solutions Engineer,0.7991712423841838
+Introduction to Computing Using Python,Applications Engineer,0.8103785286024097
+Introduction to Computing Using Python,Machine Learning Engineer,0.8065700146998938
+Introduction to Computing Using Python,Software Development Engineer,0.7534573684295507
+Introduction to Computing Using Python,Software Developer,0.7667622260739853
+Introduction to Computing Using Python,Software Architect,0.7542142182915155
+Introduction to Computing Using Python,Quality Assurance,0.8094395033954315
+Introduction to Computing Using Python,Web Developer,0.8073766279740526
+Introduction to Computing Using Python,Network Engineer,0.8046847189551707
+Introduction to Computing Using Python,Network Technician,0.8054891182766044
+Introduction to Computing Using Python,Hardware Engineer,0.7953342382268509
+Introduction to Computing Using Python,Computer Scientist,0.817057645378757
+Introduction to Computing Using Python,Data Analyst,0.7453198292764729
+Introduction to Computing Using Python,Data Scientist,0.807811080776315
+Introduction to Computing Using Python,Developer,0.9999999780975122
+Introduction to Computing Using Python,Web Engineer,0.8419287843316005
+Introduction to Computing Using Python,Computer Engineer,0.7517205443747208
+Introduction to Computing Using Python,Firmware Engineer,0.8508292342136007
+Introduction to Computing Using Python,System Analyst,0.8458613447436807
+Introduction to Computing Using Python,Test Engineer,0.7653367038669865
+Introduction to Computing Using Python,Systems Engineer,0.7749030789085914
+Introduction to Computing Using Python,Data Engineer,0.792564928938152
+Introduction to Computing Using Python,Crybersecurity Engineer,0.7980159294763325
+Introduction to Computing Using Python,User Interface Designer,0.8877650019970281
+Object-Oriented Programming and Data Structures,Software Engineer,0.8170962661173209
+Object-Oriented Programming and Data Structures,Front-end Engineer,0.8892975912139596
+Object-Oriented Programming and Data Structures,Frontend Engineer,0.8537706366056275
+Object-Oriented Programming and Data Structures,Back-end Engineer,0.8229505284974143
+Object-Oriented Programming and Data Structures,Backend Engineer,0.8295658943166794
+Object-Oriented Programming and Data Structures,Full-stack Engineer,0.8323492343864869
+Object-Oriented Programming and Data Structures,Full Stack Engineer,0.8126615867415226
+Object-Oriented Programming and Data Structures,DevOps Engineer,0.851606636582064
+Object-Oriented Programming and Data Structures,Software Reliability Engineer,0.8487900339826323
+Object-Oriented Programming and Data Structures,Cloud Engineer,0.8532821452000203
+Object-Oriented Programming and Data Structures,Cloud Architect,0.8318800454972062
+Object-Oriented Programming and Data Structures,Solutions Engineer,0.8321590054249455
+Object-Oriented Programming and Data Structures,Applications Engineer,0.8482973133872681
+Object-Oriented Programming and Data Structures,Machine Learning Engineer,0.8274240300245876
+Object-Oriented Programming and Data Structures,Software Development Engineer,0.8965746642723744
+Object-Oriented Programming and Data Structures,Software Developer,0.7948953475181086
+Object-Oriented Programming and Data Structures,Software Architect,0.7890839155460987
+Object-Oriented Programming and Data Structures,Quality Assurance,0.8390948759844776
+Object-Oriented Programming and Data Structures,Web Developer,0.8191177421535871
+Object-Oriented Programming and Data Structures,Network Engineer,0.8156848497115781
+Object-Oriented Programming and Data Structures,Network Technician,0.8375540832050004
+Object-Oriented Programming and Data Structures,Hardware Engineer,0.820901729979088
+Object-Oriented Programming and Data Structures,Computer Scientist,0.8582448843718127
+Object-Oriented Programming and Data Structures,Data Analyst,0.770549437702116
+Object-Oriented Programming and Data Structures,Data Scientist,0.830981487268984
+Object-Oriented Programming and Data Structures,Developer,0.8419287843316005
+Object-Oriented Programming and Data Structures,Web Engineer,1.0
+Object-Oriented Programming and Data Structures,Computer Engineer,0.8114474727636322
+Object-Oriented Programming and Data Structures,Firmware Engineer,0.92299484255368
+Object-Oriented Programming and Data Structures,System Analyst,0.8802426377825638
+Object-Oriented Programming and Data Structures,Test Engineer,0.8028311358027781
+Object-Oriented Programming and Data Structures,Systems Engineer,0.8214425608086949
+Object-Oriented Programming and Data Structures,Data Engineer,0.8376765877454674
+Object-Oriented Programming and Data Structures,Crybersecurity Engineer,0.8200224484095839
+Object-Oriented Programming and Data Structures,User Interface Designer,0.8591143744959131
+Discrete Structures,Software Engineer,0.9449673816885794
+Discrete Structures,Front-end Engineer,0.8339249167330114
+Discrete Structures,Frontend Engineer,0.7947164960205445
+Discrete Structures,Back-end Engineer,0.8061359424200965
+Discrete Structures,Backend Engineer,0.7863418474763819
+Discrete Structures,Full-stack Engineer,0.7746386330768855
+Discrete Structures,Full Stack Engineer,0.8131712439637244
+Discrete Structures,DevOps Engineer,0.7647921801199142
+Discrete Structures,Software Reliability Engineer,0.7911935825679042
+Discrete Structures,Cloud Engineer,0.79359633279783
+Discrete Structures,Cloud Architect,0.7665582955566634
+Discrete Structures,Solutions Engineer,0.8132014197070747
+Discrete Structures,Applications Engineer,0.7920711334017709
+Discrete Structures,Machine Learning Engineer,0.8244888653558913
+Discrete Structures,Software Development Engineer,0.8379668490285602
+Discrete Structures,Software Developer,0.8331551186761733
+Discrete Structures,Software Architect,0.7927912218130537
+Discrete Structures,Quality Assurance,0.815322160683049
+Discrete Structures,Web Developer,0.7991820426748055
+Discrete Structures,Network Engineer,0.7599645582649164
+Discrete Structures,Network Technician,0.7983122062189394
+Discrete Structures,Hardware Engineer,0.7994617406613544
+Discrete Structures,Computer Scientist,0.8199898385204841
+Discrete Structures,Data Analyst,0.7716376016945157
+Discrete Structures,Data Scientist,0.8127905455985402
+Discrete Structures,Developer,0.7517205443747208
+Discrete Structures,Web Engineer,0.8114474727636322
+Discrete Structures,Computer Engineer,1.0
+Discrete Structures,Firmware Engineer,0.8404999421300047
+Discrete Structures,System Analyst,0.8023574129063373
+Discrete Structures,Test Engineer,0.8343370196507114
+Discrete Structures,Systems Engineer,0.8145651699773921
+Discrete Structures,Data Engineer,0.8257346091372715
+Discrete Structures,Crybersecurity Engineer,0.822867132631542
+Discrete Structures,User Interface Designer,0.7913867414259232
+Data Structures and Functional Programming,Software Engineer,0.850597766042922
+Data Structures and Functional Programming,Front-end Engineer,0.9132755498226035
+Data Structures and Functional Programming,Frontend Engineer,0.8691569419137967
+Data Structures and Functional Programming,Back-end Engineer,0.8295467032890934
+Data Structures and Functional Programming,Backend Engineer,0.8399868385015712
+Data Structures and Functional Programming,Full-stack Engineer,0.8420451157966877
+Data Structures and Functional Programming,Full Stack Engineer,0.8408444202311045
+Data Structures and Functional Programming,DevOps Engineer,0.8660970949485101
+Data Structures and Functional Programming,Software Reliability Engineer,0.8649769799532672
+Data Structures and Functional Programming,Cloud Engineer,0.8595133157739394
+Data Structures and Functional Programming,Cloud Architect,0.8400270945650529
+Data Structures and Functional Programming,Solutions Engineer,0.8471028934178566
+Data Structures and Functional Programming,Applications Engineer,0.8652379433951858
+Data Structures and Functional Programming,Machine Learning Engineer,0.8537523606027014
+Data Structures and Functional Programming,Software Development Engineer,0.8332024137292621
+Data Structures and Functional Programming,Software Developer,0.81858947597193
+Data Structures and Functional Programming,Software Architect,0.7956673525095879
+Data Structures and Functional Programming,Quality Assurance,0.8524293025979768
+Data Structures and Functional Programming,Web Developer,0.8465445692517182
+Data Structures and Functional Programming,Network Engineer,0.8315908593716155
+Data Structures and Functional Programming,Network Technician,0.8735503627467117
+Data Structures and Functional Programming,Hardware Engineer,0.8410010093568379
+Data Structures and Functional Programming,Computer Scientist,0.8662046413939244
+Data Structures and Functional Programming,Data Analyst,0.7834370198232972
+Data Structures and Functional Programming,Data Scientist,0.8665549888498467
+Data Structures and Functional Programming,Developer,0.850040517920353
+Data Structures and Functional Programming,Web Engineer,0.9227190183497602
+Data Structures and Functional Programming,Computer Engineer,0.8399475982825708
+Data Structures and Functional Programming,Firmware Engineer,0.9988885706091589
+Data Structures and Functional Programming,System Analyst,0.8826875007537403
+Data Structures and Functional Programming,Test Engineer,0.8160259642149673
+Data Structures and Functional Programming,Systems Engineer,0.8136737194172996
+Data Structures and Functional Programming,Data Engineer,0.860497561990609
+Data Structures and Functional Programming,Crybersecurity Engineer,0.8377511810673884
+Data Structures and Functional Programming,User Interface Designer,0.8708619184413642
+Computer System Organization and Programming,Software Engineer,0.8135085902704887
+Computer System Organization and Programming,Front-end Engineer,0.8530543312265886
+Computer System Organization and Programming,Frontend Engineer,0.8606798741450892
+Computer System Organization and Programming,Back-end Engineer,0.8507359540179134
+Computer System Organization and Programming,Backend Engineer,0.8303138273780248
+Computer System Organization and Programming,Full-stack Engineer,0.8681133255906166
+Computer System Organization and Programming,Full Stack Engineer,0.8347978707426728
+Computer System Organization and Programming,DevOps Engineer,0.8386472021740671
+Computer System Organization and Programming,Software Reliability Engineer,0.8172768170251286
+Computer System Organization and Programming,Cloud Engineer,0.9202977468264815
+Computer System Organization and Programming,Cloud Architect,0.8576042892526462
+Computer System Organization and Programming,Solutions Engineer,0.8283225133242409
+Computer System Organization and Programming,Applications Engineer,0.8368190154927068
+Computer System Organization and Programming,Machine Learning Engineer,0.860822704525498
+Computer System Organization and Programming,Software Development Engineer,0.811476482446043
+Computer System Organization and Programming,Software Developer,0.8322628972191626
+Computer System Organization and Programming,Software Architect,0.8114145461994651
+Computer System Organization and Programming,Quality Assurance,0.9024881690177585
+Computer System Organization and Programming,Web Developer,0.8163969521987886
+Computer System Organization and Programming,Network Engineer,0.807174862554293
+Computer System Organization and Programming,Network Technician,0.8399601174321751
+Computer System Organization and Programming,Hardware Engineer,0.8388915647362822
+Computer System Organization and Programming,Computer Scientist,0.8932626041453475
+Computer System Organization and Programming,Data Analyst,0.7870481212555117
+Computer System Organization and Programming,Data Scientist,0.8537623516368751
+Computer System Organization and Programming,Developer,0.8458613447436807
+Computer System Organization and Programming,Web Engineer,0.8802426377825638
+Computer System Organization and Programming,Computer Engineer,0.8023574129063373
+Computer System Organization and Programming,Firmware Engineer,0.8833982644245153
+Computer System Organization and Programming,System Analyst,0.9999999813788476
+Computer System Organization and Programming,Test Engineer,0.8366793919056177
+Computer System Organization and Programming,Systems Engineer,0.864470215036724
+Computer System Organization and Programming,Data Engineer,0.8920304969758625
+Computer System Organization and Programming,Crybersecurity Engineer,0.9199941310723325
+Computer System Organization and Programming,User Interface Designer,0.8413096815359681
+Embedded Systems,Software Engineer,0.8180602302792379
+Embedded Systems,Front-end Engineer,0.8198726352621896
+Embedded Systems,Frontend Engineer,0.8145129291673079
+Embedded Systems,Back-end Engineer,0.8217918005425788
+Embedded Systems,Backend Engineer,0.8030264107790297
+Embedded Systems,Full-stack Engineer,0.7960466267743889
+Embedded Systems,Full Stack Engineer,0.8235849865598035
+Embedded Systems,DevOps Engineer,0.7780428742171703
+Embedded Systems,Software Reliability Engineer,0.7851586543715752
+Embedded Systems,Cloud Engineer,0.813626522840996
+Embedded Systems,Cloud Architect,0.7927666688128754
+Embedded Systems,Solutions Engineer,0.8052305937951961
+Embedded Systems,Applications Engineer,0.7767201952255776
+Embedded Systems,Machine Learning Engineer,0.8083052239061913
+Embedded Systems,Software Development Engineer,0.8175247319688164
+Embedded Systems,Software Developer,0.8270478689584686
+Embedded Systems,Software Architect,0.8151682649249581
+Embedded Systems,Quality Assurance,0.8350160231376451
+Embedded Systems,Web Developer,0.8000908223088552
+Embedded Systems,Network Engineer,0.7741890003125682
+Embedded Systems,Network Technician,0.8075269277609614
+Embedded Systems,Hardware Engineer,0.8125487966195588
+Embedded Systems,Computer Scientist,0.8239664537381204
+Embedded Systems,Data Analyst,0.7659756051990978
+Embedded Systems,Data Scientist,0.82206727432299
+Embedded Systems,Developer,0.7653367038669865
+Embedded Systems,Web Engineer,0.8028311358027781
+Embedded Systems,Computer Engineer,0.8343370196507114
+Embedded Systems,Firmware Engineer,0.8167004615702991
+Embedded Systems,System Analyst,0.8366793919056177
+Embedded Systems,Test Engineer,1.0
+Embedded Systems,Systems Engineer,0.8671821413232549
+Embedded Systems,Data Engineer,0.876743105538887
+Embedded Systems,Crybersecurity Engineer,0.8582903777709144
+Embedded Systems,User Interface Designer,0.7847062726056581
+Operating Systems,Software Engineer,0.8117683294960953
+Operating Systems,Front-end Engineer,0.8158836056228393
+Operating Systems,Frontend Engineer,0.8269409055153187
+Operating Systems,Back-end Engineer,0.8387840104098045
+Operating Systems,Backend Engineer,0.8141427576329214
+Operating Systems,Full-stack Engineer,0.8023565351158044
+Operating Systems,Full Stack Engineer,0.82794791755542
+Operating Systems,DevOps Engineer,0.7768779460872998
+Operating Systems,Software Reliability Engineer,0.7797244551669917
+Operating Systems,Cloud Engineer,0.8220857042069583
+Operating Systems,Cloud Architect,0.7928453688718533
+Operating Systems,Solutions Engineer,0.8063035453131036
+Operating Systems,Applications Engineer,0.7758237411348641
+Operating Systems,Machine Learning Engineer,0.8314349319199892
+Operating Systems,Software Development Engineer,0.8283543414656043
+Operating Systems,Software Developer,0.8549121154606651
+Operating Systems,Software Architect,0.8320547666568789
+Operating Systems,Quality Assurance,0.8460150757903802
+Operating Systems,Web Developer,0.7962592509744494
+Operating Systems,Network Engineer,0.7654545933296433
+Operating Systems,Network Technician,0.8066684805795079
+Operating Systems,Hardware Engineer,0.8160566792322238
+Operating Systems,Computer Scientist,0.8275399790688576
+Operating Systems,Data Analyst,0.7721114126128482
+Operating Systems,Data Scientist,0.829553909949521
+Operating Systems,Developer,0.7749030789085914
+Operating Systems,Web Engineer,0.8214425608086949
+Operating Systems,Computer Engineer,0.8145651699773921
+Operating Systems,Firmware Engineer,0.8141797912281755
+Operating Systems,System Analyst,0.864470215036724
+Operating Systems,Test Engineer,0.8671821413232549
+Operating Systems,Systems Engineer,0.9999999099502583
+Operating Systems,Data Engineer,0.8934517372332692
+Operating Systems,Crybersecurity Engineer,0.8824166009943293
+Operating Systems,User Interface Designer,0.7862232823441228
+Systems Programming,Software Engineer,0.8279962130824572
+Systems Programming,Front-end Engineer,0.8329216401298005
+Systems Programming,Frontend Engineer,0.8604528197429139
+Systems Programming,Back-end Engineer,0.8790736930428816
+Systems Programming,Backend Engineer,0.8526122376224997
+Systems Programming,Full-stack Engineer,0.8065445684892378
+Systems Programming,Full Stack Engineer,0.8465395829592586
+Systems Programming,DevOps Engineer,0.8102916060011462
+Systems Programming,Software Reliability Engineer,0.7883874602205312
+Systems Programming,Cloud Engineer,0.8507048585088675
+Systems Programming,Cloud Architect,0.7971978832624187
+Systems Programming,Solutions Engineer,0.8111981751932855
+Systems Programming,Applications Engineer,0.799156950383421
+Systems Programming,Machine Learning Engineer,0.8492865892143586
+Systems Programming,Software Development Engineer,0.8354091055345175
+Systems Programming,Software Developer,0.8485446073579697
+Systems Programming,Software Architect,0.8180359880992363
+Systems Programming,Quality Assurance,0.8526979774635541
+Systems Programming,Web Developer,0.8128082044596006
+Systems Programming,Network Engineer,0.7647972204515417
+Systems Programming,Network Technician,0.8231544161720311
+Systems Programming,Hardware Engineer,0.821755779359628
+Systems Programming,Computer Scientist,0.8363452294758196
+Systems Programming,Data Analyst,0.7997183650281161
+Systems Programming,Data Scientist,0.8592118785393369
+Systems Programming,Developer,0.792564928938152
+Systems Programming,Web Engineer,0.8376765877454674
+Systems Programming,Computer Engineer,0.8257346091372715
+Systems Programming,Firmware Engineer,0.8609126691607445
+Systems Programming,System Analyst,0.8920304969758625
+Systems Programming,Test Engineer,0.876743105538887
+Systems Programming,Systems Engineer,0.8934517372332692
+Systems Programming,Data Engineer,0.9999999051753437
+Systems Programming,Crybersecurity Engineer,0.875246363267079
+Systems Programming,User Interface Designer,0.8008888099186233
+Computer Architecture,Software Engineer,0.8300114125278557
+Computer Architecture,Front-end Engineer,0.832989745431834
+Computer Architecture,Frontend Engineer,0.8412337991011485
+Computer Architecture,Back-end Engineer,0.8532118111888511
+Computer Architecture,Backend Engineer,0.8298872969376974
+Computer Architecture,Full-stack Engineer,0.8541229785515199
+Computer Architecture,Full Stack Engineer,0.8529108707863613
+Computer Architecture,DevOps Engineer,0.8031528767070496
+Computer Architecture,Software Reliability Engineer,0.8035134523653558
+Computer Architecture,Cloud Engineer,0.8906563659641122
+Computer Architecture,Cloud Architect,0.8404334992586668
+Computer Architecture,Solutions Engineer,0.8211898460568432
+Computer Architecture,Applications Engineer,0.8060730122024627
+Computer Architecture,Machine Learning Engineer,0.8682559919407045
+Computer Architecture,Software Development Engineer,0.8183778007949161
+Computer Architecture,Software Developer,0.8591247028007629
+Computer Architecture,Software Architect,0.8400039519676912
+Computer Architecture,Quality Assurance,0.9278906755376337
+Computer Architecture,Web Developer,0.8157557040682364
+Computer Architecture,Network Engineer,0.7744087085792488
+Computer Architecture,Network Technician,0.8096500655963738
+Computer Architecture,Hardware Engineer,0.8228363976321607
+Computer Architecture,Computer Scientist,0.8651365376875294
+Computer Architecture,Data Analyst,0.7963401641195736
+Computer Architecture,Data Scientist,0.8427191426396936
+Computer Architecture,Developer,0.7980159294763325
+Computer Architecture,Web Engineer,0.8200224484095839
+Computer Architecture,Computer Engineer,0.822867132631542
+Computer Architecture,Firmware Engineer,0.838470838981896
+Computer Architecture,System Analyst,0.9199941310723325
+Computer Architecture,Test Engineer,0.8582903777709144
+Computer Architecture,Systems Engineer,0.8824166009943293
+Computer Architecture,Data Engineer,0.875246363267079
+Computer Architecture,Crybersecurity Engineer,0.9999999805880921
+Computer Architecture,User Interface Designer,0.8120363284404892
+Introduction to Analysis of Algorithms,Software Engineer,0.8179666241810856
+Introduction to Analysis of Algorithms,Front-end Engineer,0.9241492347606493
+Introduction to Analysis of Algorithms,Frontend Engineer,0.9089818567645767
+Introduction to Analysis of Algorithms,Back-end Engineer,0.7967588300750608
+Introduction to Analysis of Algorithms,Backend Engineer,0.7951891032447305
+Introduction to Analysis of Algorithms,Full-stack Engineer,0.888904170314556
+Introduction to Analysis of Algorithms,Full Stack Engineer,0.8182945682458711
+Introduction to Analysis of Algorithms,DevOps Engineer,0.8395925586803727
+Introduction to Analysis of Algorithms,Software Reliability Engineer,0.8965628481169226
+Introduction to Analysis of Algorithms,Cloud Engineer,0.8263990286277154
+Introduction to Analysis of Algorithms,Cloud Architect,0.8943372125613964
+Introduction to Analysis of Algorithms,Solutions Engineer,0.8493683942392015
+Introduction to Analysis of Algorithms,Applications Engineer,0.923395895057811
+Introduction to Analysis of Algorithms,Machine Learning Engineer,0.8456193981394022
+Introduction to Analysis of Algorithms,Software Development Engineer,0.7845583483662923
+Introduction to Analysis of Algorithms,Software Developer,0.7748757330562943
+Introduction to Analysis of Algorithms,Software Architect,0.777162785243567
+Introduction to Analysis of Algorithms,Quality Assurance,0.8351229002900467
+Introduction to Analysis of Algorithms,Web Developer,0.8434989585659254
+Introduction to Analysis of Algorithms,Network Engineer,0.8286914721591024
+Introduction to Analysis of Algorithms,Network Technician,0.841565147854527
+Introduction to Analysis of Algorithms,Hardware Engineer,0.830339177423316
+Introduction to Analysis of Algorithms,Computer Scientist,0.8420444697198679
+Introduction to Analysis of Algorithms,Data Analyst,0.7736482769189199
+Introduction to Analysis of Algorithms,Data Scientist,0.8300456424698655
+Introduction to Analysis of Algorithms,Developer,0.8877650019970281
+Introduction to Analysis of Algorithms,Web Engineer,0.8591143744959131
+Introduction to Analysis of Algorithms,Computer Engineer,0.7913867414259232
+Introduction to Analysis of Algorithms,Firmware Engineer,0.8723982402668515
+Introduction to Analysis of Algorithms,System Analyst,0.8413096815359681
+Introduction to Analysis of Algorithms,Test Engineer,0.7847062726056581
+Introduction to Analysis of Algorithms,Systems Engineer,0.7862232823441228
+Introduction to Analysis of Algorithms,Data Engineer,0.8008888099186233
+Introduction to Analysis of Algorithms,Crybersecurity Engineer,0.8120363284404892
+Introduction to Analysis of Algorithms,User Interface Designer,1.0
+Introduction to Compilers,Software Engineer,0.7941203423083802
+Introduction to Compilers,Front-end Engineer,0.9179959493331468
+Introduction to Compilers,Frontend Engineer,0.9334183833829583
+Introduction to Compilers,Back-end Engineer,0.8195452542094948
+Introduction to Compilers,Backend Engineer,0.8068857362882775
+Introduction to Compilers,Full-stack Engineer,0.8961696775356307
+Introduction to Compilers,Full Stack Engineer,0.8152667096059876
+Introduction to Compilers,DevOps Engineer,0.8075322142349439
+Introduction to Compilers,Software Reliability Engineer,0.8749560519538652
+Introduction to Compilers,Cloud Engineer,0.8223349622990219
+Introduction to Compilers,Cloud Architect,0.8970275429995535
+Introduction to Compilers,Solutions Engineer,0.8075568160168445
+Introduction to Compilers,Applications Engineer,0.8116868190036483
+Introduction to Compilers,Machine Learning Engineer,0.8339295818895271
+Introduction to Compilers,Software Development Engineer,0.7811771108299979
+Introduction to Compilers,Software Developer,0.7843681159400298
+Introduction to Compilers,Software Architect,0.7668668736065808
+Introduction to Compilers,Quality Assurance,0.8211023670550874
+Introduction to Compilers,Web Developer,0.8218754186881616
+Introduction to Compilers,Network Engineer,0.7986611661051508
+Introduction to Compilers,Network Technician,0.821002225627477
+Introduction to Compilers,Hardware Engineer,0.8144473557039198
+Introduction to Compilers,Computer Scientist,0.8250305557703539
+Introduction to Compilers,Data Analyst,0.7415222054019843
+Introduction to Compilers,Data Scientist,0.825297465040923
+Introduction to Compilers,Developer,0.8737745048168424
+Introduction to Compilers,Web Engineer,0.8322686849221327
+Introduction to Compilers,Computer Engineer,0.7823745986359546
+Introduction to Compilers,Firmware Engineer,0.8555244717875986
+Introduction to Compilers,System Analyst,0.8340814875931435
+Introduction to Compilers,Test Engineer,0.8054312490440447
+Introduction to Compilers,Systems Engineer,0.800848491049706
+Introduction to Compilers,Data Engineer,0.8244660662769904
+Introduction to Compilers,Crybersecurity Engineer,0.8250540692817168
+Introduction to Compilers,User Interface Designer,0.896569915130613
+Advanced Topics in Computer Game Architecture,Software Engineer,0.7956188418796463
+Advanced Topics in Computer Game Architecture,Front-end Engineer,0.8271322295462256
+Advanced Topics in Computer Game Architecture,Frontend Engineer,0.8112627439644818
+Advanced Topics in Computer Game Architecture,Back-end Engineer,0.7783294411882147
+Advanced Topics in Computer Game Architecture,Backend Engineer,0.778670600231691
+Advanced Topics in Computer Game Architecture,Full-stack Engineer,0.8510889855331046
+Advanced Topics in Computer Game Architecture,Full Stack Engineer,0.785129562369755
+Advanced Topics in Computer Game Architecture,DevOps Engineer,0.8206014929712024
+Advanced Topics in Computer Game Architecture,Software Reliability Engineer,0.8055420513302627
+Advanced Topics in Computer Game Architecture,Cloud Engineer,0.8855588028951474
+Advanced Topics in Computer Game Architecture,Cloud Architect,0.8287261642831667
+Advanced Topics in Computer Game Architecture,Solutions Engineer,0.8465118451926177
+Advanced Topics in Computer Game Architecture,Applications Engineer,0.8373677432524589
+Advanced Topics in Computer Game Architecture,Machine Learning Engineer,0.8040109442598233
+Advanced Topics in Computer Game Architecture,Software Development Engineer,0.7777799894980683
+Advanced Topics in Computer Game Architecture,Software Developer,0.7769331654232245
+Advanced Topics in Computer Game Architecture,Software Architect,0.7673476916840198
+Advanced Topics in Computer Game Architecture,Quality Assurance,0.9070406939577325
+Advanced Topics in Computer Game Architecture,Web Developer,0.817145929494119
+Advanced Topics in Computer Game Architecture,Network Engineer,0.8304141914950568
+Advanced Topics in Computer Game Architecture,Network Technician,0.8264186421360388
+Advanced Topics in Computer Game Architecture,Hardware Engineer,0.8301713751867383
+Advanced Topics in Computer Game Architecture,Computer Scientist,0.8457707418578002
+Advanced Topics in Computer Game Architecture,Data Analyst,0.8059305108144762
+Advanced Topics in Computer Game Architecture,Data Scientist,0.7988110676793422
+Advanced Topics in Computer Game Architecture,Developer,0.8157423548842213
+Advanced Topics in Computer Game Architecture,Web Engineer,0.8389412098157027
+Advanced Topics in Computer Game Architecture,Computer Engineer,0.7828576058270683
+Advanced Topics in Computer Game Architecture,Firmware Engineer,0.851002053477972
+Advanced Topics in Computer Game Architecture,System Analyst,0.8565101565246096
+Advanced Topics in Computer Game Architecture,Test Engineer,0.7764545529051956
+Advanced Topics in Computer Game Architecture,Systems Engineer,0.7763386350732315
+Advanced Topics in Computer Game Architecture,Data Engineer,0.798566741053996
+Advanced Topics in Computer Game Architecture,Crybersecurity Engineer,0.8336041119695448
+Advanced Topics in Computer Game Architecture,User Interface Designer,0.8411315628630875
+Formal Verification,Software Engineer,0.796289224185379
+Formal Verification,Front-end Engineer,0.7625688933120092
+Formal Verification,Frontend Engineer,0.7567005900263172
+Formal Verification,Back-end Engineer,0.7845778412052034
+Formal Verification,Backend Engineer,0.7670423150266084
+Formal Verification,Full-stack Engineer,0.7258794173782727
+Formal Verification,Full Stack Engineer,0.7824230982296752
+Formal Verification,DevOps Engineer,0.7432379956686253
+Formal Verification,Software Reliability Engineer,0.7511443571454097
+Formal Verification,Cloud Engineer,0.7444631600359775
+Formal Verification,Cloud Architect,0.733035655681643
+Formal Verification,Solutions Engineer,0.7671734786026498
+Formal Verification,Applications Engineer,0.7561879059128443
+Formal Verification,Machine Learning Engineer,0.8012550167570176
+Formal Verification,Software Development Engineer,0.798010262764955
+Formal Verification,Software Developer,0.7778200276165657
+Formal Verification,Software Architect,0.765755778420586
+Formal Verification,Quality Assurance,0.7801378095659843
+Formal Verification,Web Developer,0.7568890562058163
+Formal Verification,Network Engineer,0.7118933210052395
+Formal Verification,Network Technician,0.7454349057965219
+Formal Verification,Hardware Engineer,0.759756023862524
+Formal Verification,Computer Scientist,0.7744147734726309
+Formal Verification,Data Analyst,0.7465358727926117
+Formal Verification,Data Scientist,0.7808376424784158
+Formal Verification,Developer,0.7040253412453115
+Formal Verification,Web Engineer,0.7502046915624911
+Formal Verification,Computer Engineer,0.800918000624404
+Formal Verification,Firmware Engineer,0.7703113758847864
+Formal Verification,System Analyst,0.7510568279073226
+Formal Verification,Test Engineer,0.7729998804685715
+Formal Verification,Systems Engineer,0.7697378247175638
+Formal Verification,Data Engineer,0.7865166050440786
+Formal Verification,Crybersecurity Engineer,0.7800077883191316
+Formal Verification,User Interface Designer,0.746718545675485
+Language and Information,Software Engineer,0.805368571142844
+Language and Information,Front-end Engineer,0.8095674421205075
+Language and Information,Frontend Engineer,0.8079266210177138
+Language and Information,Back-end Engineer,0.8175989614350975
+Language and Information,Backend Engineer,0.7996680874755249
+Language and Information,Full-stack Engineer,0.7732370343802292
+Language and Information,Full Stack Engineer,0.8319221309052058
+Language and Information,DevOps Engineer,0.7796496131631856
+Language and Information,Software Reliability Engineer,0.789660212316281
+Language and Information,Cloud Engineer,0.7909376108367353
+Language and Information,Cloud Architect,0.7732541837375206
+Language and Information,Solutions Engineer,0.8257604962336667
+Language and Information,Applications Engineer,0.7727524606102851
+Language and Information,Machine Learning Engineer,0.8301391324282902
+Language and Information,Software Development Engineer,0.8053264336553978
+Language and Information,Software Developer,0.8103650664674169
+Language and Information,Software Architect,0.8046900153006196
+Language and Information,Quality Assurance,0.8052570691427683
+Language and Information,Web Developer,0.8097172015845773
+Language and Information,Network Engineer,0.7672216703867216
+Language and Information,Network Technician,0.7957030963634842
+Language and Information,Hardware Engineer,0.8426286648324286
+Language and Information,Computer Scientist,0.8328169081570613
+Language and Information,Data Analyst,0.7537100822475686
+Language and Information,Data Scientist,0.8022812174368641
+Language and Information,Developer,0.7532772907214513
+Language and Information,Web Engineer,0.8028390048812983
+Language and Information,Computer Engineer,0.8077939540869431
+Language and Information,Firmware Engineer,0.8103344376410369
+Language and Information,System Analyst,0.8142237693773045
+Language and Information,Test Engineer,0.8029651308307632
+Language and Information,Systems Engineer,0.8179348600237812
+Language and Information,Data Engineer,0.8233593441691963
+Language and Information,Crybersecurity Engineer,0.8262455956456776
+Language and Information,User Interface Designer,0.7842023048656718
+Introduction to Database Systems,Software Engineer,0.7819160962325507
+Introduction to Database Systems,Front-end Engineer,0.9293049978561767
+Introduction to Database Systems,Frontend Engineer,0.9001500504465788
+Introduction to Database Systems,Back-end Engineer,0.7691559592927817
+Introduction to Database Systems,Backend Engineer,0.7848968760848157
+Introduction to Database Systems,Full-stack Engineer,0.8851248774028817
+Introduction to Database Systems,Full Stack Engineer,0.8023757917541328
+Introduction to Database Systems,DevOps Engineer,0.8349082549672873
+Introduction to Database Systems,Software Reliability Engineer,0.8904787903785757
+Introduction to Database Systems,Cloud Engineer,0.8183568802756935
+Introduction to Database Systems,Cloud Architect,0.8906036786308913
+Introduction to Database Systems,Solutions Engineer,0.7913355052578492
+Introduction to Database Systems,Applications Engineer,0.8333724620424727
+Introduction to Database Systems,Machine Learning Engineer,0.7981784596288044
+Introduction to Database Systems,Software Development Engineer,0.7696781491136455
+Introduction to Database Systems,Software Developer,0.777349243841147
+Introduction to Database Systems,Software Architect,0.763804044322062
+Introduction to Database Systems,Quality Assurance,0.8090089255373946
+Introduction to Database Systems,Web Developer,0.8026533559630051
+Introduction to Database Systems,Network Engineer,0.8134971217161938
+Introduction to Database Systems,Network Technician,0.9093111589445159
+Introduction to Database Systems,Hardware Engineer,0.8208366201592179
+Introduction to Database Systems,Computer Scientist,0.8224085516138981
+Introduction to Database Systems,Data Analyst,0.7282543193588147
+Introduction to Database Systems,Data Scientist,0.8932546684557304
+Introduction to Database Systems,Developer,0.8851386975195349
+Introduction to Database Systems,Web Engineer,0.8480159970097039
+Introduction to Database Systems,Computer Engineer,0.7669333274511511
+Introduction to Database Systems,Firmware Engineer,0.867145150736742
+Introduction to Database Systems,System Analyst,0.8437230718196003
+Introduction to Database Systems,Test Engineer,0.7898066316298145
+Introduction to Database Systems,Systems Engineer,0.7905186018408188
+Introduction to Database Systems,Data Engineer,0.8041677484570257
+Introduction to Database Systems,Crybersecurity Engineer,0.7984362926555324
+Introduction to Database Systems,User Interface Designer,0.8987071097797827
+Introduction to Computer Networks,Software Engineer,0.7835529378772494
+Introduction to Computer Networks,Front-end Engineer,0.9079426201699454
+Introduction to Computer Networks,Frontend Engineer,0.9102873546949634
+Introduction to Computer Networks,Back-end Engineer,0.7968271352435148
+Introduction to Computer Networks,Backend Engineer,0.7900634343278135
+Introduction to Computer Networks,Full-stack Engineer,0.9179675717806429
+Introduction to Computer Networks,Full Stack Engineer,0.8002465758291742
+Introduction to Computer Networks,DevOps Engineer,0.8166855448890074
+Introduction to Computer Networks,Software Reliability Engineer,0.8811008817937112
+Introduction to Computer Networks,Cloud Engineer,0.8446252192231194
+Introduction to Computer Networks,Cloud Architect,0.9255151440776905
+Introduction to Computer Networks,Solutions Engineer,0.7978484608028631
+Introduction to Computer Networks,Applications Engineer,0.8149570416549494
+Introduction to Computer Networks,Machine Learning Engineer,0.8175782939629377
+Introduction to Computer Networks,Software Development Engineer,0.7551909768340583
+Introduction to Computer Networks,Software Developer,0.7898773824441778
+Introduction to Computer Networks,Software Architect,0.7697671542326023
+Introduction to Computer Networks,Quality Assurance,0.8435490753728633
+Introduction to Computer Networks,Web Developer,0.8056743084661
+Introduction to Computer Networks,Network Engineer,0.8579870322655522
+Introduction to Computer Networks,Network Technician,0.8236593205811757
+Introduction to Computer Networks,Hardware Engineer,0.8288869288932073
+Introduction to Computer Networks,Computer Scientist,0.8545675214323458
+Introduction to Computer Networks,Data Analyst,0.7373145174706262
+Introduction to Computer Networks,Data Scientist,0.8262970030100694
+Introduction to Computer Networks,Developer,0.8957220235871799
+Introduction to Computer Networks,Web Engineer,0.8433213607354588
+Introduction to Computer Networks,Computer Engineer,0.7648117367830294
+Introduction to Computer Networks,Firmware Engineer,0.8491819843777593
+Introduction to Computer Networks,System Analyst,0.8737166207321598
+Introduction to Computer Networks,Test Engineer,0.7934784920981608
+Introduction to Computer Networks,Systems Engineer,0.8058455132552107
+Introduction to Computer Networks,Data Engineer,0.8035808209643553
+Introduction to Computer Networks,Crybersecurity Engineer,0.8427792477897442
+Introduction to Computer Networks,User Interface Designer,0.8976398557950127
+Introduction to Computer Graphics,Software Engineer,0.7903423070969899
+Introduction to Computer Graphics,Front-end Engineer,0.9037810455046241
+Introduction to Computer Graphics,Frontend Engineer,0.9186567743910098
+Introduction to Computer Graphics,Back-end Engineer,0.8016689269189948
+Introduction to Computer Graphics,Backend Engineer,0.7927853675949736
+Introduction to Computer Graphics,Full-stack Engineer,0.9985749246314999
+Introduction to Computer Graphics,Full Stack Engineer,0.8092272032616872
+Introduction to Computer Graphics,DevOps Engineer,0.8085087260221551
+Introduction to Computer Graphics,Software Reliability Engineer,0.9142237076376691
+Introduction to Computer Graphics,Cloud Engineer,0.8748875467628687
+Introduction to Computer Graphics,Cloud Architect,0.9412574983522809
+Introduction to Computer Graphics,Solutions Engineer,0.8121139416755074
+Introduction to Computer Graphics,Applications Engineer,0.8160705871935755
+Introduction to Computer Graphics,Machine Learning Engineer,0.8171814235902635
+Introduction to Computer Graphics,Software Development Engineer,0.7795091000605137
+Introduction to Computer Graphics,Software Developer,0.7840089342719856
+Introduction to Computer Graphics,Software Architect,0.8039090631828314
+Introduction to Computer Graphics,Quality Assurance,0.8458682442621217
+Introduction to Computer Graphics,Web Developer,0.8096009898436782
+Introduction to Computer Graphics,Network Engineer,0.803285608879329
+Introduction to Computer Graphics,Network Technician,0.8087547071292842
+Introduction to Computer Graphics,Hardware Engineer,0.8137651683380784
+Introduction to Computer Graphics,Computer Scientist,0.8381078331012484
+Introduction to Computer Graphics,Data Analyst,0.749962984559801
+Introduction to Computer Graphics,Data Scientist,0.8125504965571764
+Introduction to Computer Graphics,Developer,0.8846265157096935
+Introduction to Computer Graphics,Web Engineer,0.8332796296384632
+Introduction to Computer Graphics,Computer Engineer,0.7751855030434152
+Introduction to Computer Graphics,Firmware Engineer,0.844261493519425
+Introduction to Computer Graphics,System Analyst,0.8680713314160549
+Introduction to Computer Graphics,Test Engineer,0.7960545452926946
+Introduction to Computer Graphics,Systems Engineer,0.8024030156701156
+Introduction to Computer Graphics,Data Engineer,0.8070594975861594
+Introduction to Computer Graphics,Crybersecurity Engineer,0.8543482055040312
+Introduction to Computer Graphics,User Interface Designer,0.8884598418495098
+Introduction to Computer Vision,Software Engineer,0.7819125268063492
+Introduction to Computer Vision,Front-end Engineer,0.9100957422809111
+Introduction to Computer Vision,Frontend Engineer,0.9200405315829472
+Introduction to Computer Vision,Back-end Engineer,0.8010552163060413
+Introduction to Computer Vision,Backend Engineer,0.7919605781986577
+Introduction to Computer Vision,Full-stack Engineer,0.9420762217628409
+Introduction to Computer Vision,Full Stack Engineer,0.809394772482033
+Introduction to Computer Vision,DevOps Engineer,0.8176815501468648
+Introduction to Computer Vision,Software Reliability Engineer,0.9198600757257791
+Introduction to Computer Vision,Cloud Engineer,0.845656141508083
+Introduction to Computer Vision,Cloud Architect,0.9986248114021246
+Introduction to Computer Vision,Solutions Engineer,0.8217956267296593
+Introduction to Computer Vision,Applications Engineer,0.8149245309668176
+Introduction to Computer Vision,Machine Learning Engineer,0.818757286695118
+Introduction to Computer Vision,Software Development Engineer,0.7730733587255127
+Introduction to Computer Vision,Software Developer,0.7804549210270819
+Introduction to Computer Vision,Software Architect,0.7836017705447368
+Introduction to Computer Vision,Quality Assurance,0.8402837082106787
+Introduction to Computer Vision,Web Developer,0.82026434574978
+Introduction to Computer Vision,Network Engineer,0.8161406333295733
+Introduction to Computer Vision,Network Technician,0.8121023701468341
+Introduction to Computer Vision,Hardware Engineer,0.8198439669344311
+Introduction to Computer Vision,Computer Scientist,0.8412776715830028
+Introduction to Computer Vision,Data Analyst,0.751337734632276
+Introduction to Computer Vision,Data Scientist,0.8151984604215488
+Introduction to Computer Vision,Developer,0.8963296067458879
+Introduction to Computer Vision,Web Engineer,0.8334494062272904
+Introduction to Computer Vision,Computer Engineer,0.7666123886702413
+Introduction to Computer Vision,Firmware Engineer,0.8425436962980648
+Introduction to Computer Vision,System Analyst,0.8585420324878382
+Introduction to Computer Vision,Test Engineer,0.7922261141816123
+Introduction to Computer Vision,Systems Engineer,0.7934288496867481
+Introduction to Computer Vision,Data Engineer,0.7972178282199257
+Introduction to Computer Vision,Crybersecurity Engineer,0.8401663174943732
+Introduction to Computer Vision,User Interface Designer,0.895711741546505
+Foundations of Artificial Intelligence,Software Engineer,0.8155298301215439
+Foundations of Artificial Intelligence,Front-end Engineer,0.8517493468409962
+Foundations of Artificial Intelligence,Frontend Engineer,0.8473170584613905
+Foundations of Artificial Intelligence,Back-end Engineer,0.7994757436472204
+Foundations of Artificial Intelligence,Backend Engineer,0.8009982424412168
+Foundations of Artificial Intelligence,Full-stack Engineer,0.8392028478705076
+Foundations of Artificial Intelligence,Full Stack Engineer,0.811778800948089
+Foundations of Artificial Intelligence,DevOps Engineer,0.8099931967535845
+Foundations of Artificial Intelligence,Software Reliability Engineer,0.8328151709272182
+Foundations of Artificial Intelligence,Cloud Engineer,0.8241101531726284
+Foundations of Artificial Intelligence,Cloud Architect,0.8473235562223534
+Foundations of Artificial Intelligence,Solutions Engineer,0.9081493234417422
+Foundations of Artificial Intelligence,Applications Engineer,0.8509223095497377
+Foundations of Artificial Intelligence,Machine Learning Engineer,0.8325838253363846
+Foundations of Artificial Intelligence,Software Development Engineer,0.8132392728460303
+Foundations of Artificial Intelligence,Software Developer,0.7918530499829547
+Foundations of Artificial Intelligence,Software Architect,0.7900099733779079
+Foundations of Artificial Intelligence,Quality Assurance,0.8437802587672829
+Foundations of Artificial Intelligence,Web Developer,0.8453207576145999
+Foundations of Artificial Intelligence,Network Engineer,0.8040882139785726
+Foundations of Artificial Intelligence,Network Technician,0.8118158498411189
+Foundations of Artificial Intelligence,Hardware Engineer,0.8232602665494341
+Foundations of Artificial Intelligence,Computer Scientist,0.8370815675616015
+Foundations of Artificial Intelligence,Data Analyst,0.783041885262036
+Foundations of Artificial Intelligence,Data Scientist,0.8210186506774815
+Foundations of Artificial Intelligence,Developer,0.8261471496469139
+Foundations of Artificial Intelligence,Web Engineer,0.8531772620093849
+Foundations of Artificial Intelligence,Computer Engineer,0.8085884278453864
+Foundations of Artificial Intelligence,Firmware Engineer,0.8608598828710509
+Foundations of Artificial Intelligence,System Analyst,0.8330048400869741
+Foundations of Artificial Intelligence,Test Engineer,0.8099331346329521
+Foundations of Artificial Intelligence,Systems Engineer,0.8049207146539163
+Foundations of Artificial Intelligence,Data Engineer,0.8065287995305677
+Foundations of Artificial Intelligence,Crybersecurity Engineer,0.8229914135228917
+Foundations of Artificial Intelligence,User Interface Designer,0.8728539717320605
+Natural Language Processing,Software Engineer,0.8020458290023411
+Natural Language Processing,Front-end Engineer,0.8031790189945336
+Natural Language Processing,Frontend Engineer,0.8045393895416096
+Natural Language Processing,Back-end Engineer,0.8102960448363967
+Natural Language Processing,Backend Engineer,0.8035144978096933
+Natural Language Processing,Full-stack Engineer,0.765875412002524
+Natural Language Processing,Full Stack Engineer,0.8405355413340729
+Natural Language Processing,DevOps Engineer,0.8047910661173553
+Natural Language Processing,Software Reliability Engineer,0.7870934195535195
+Natural Language Processing,Cloud Engineer,0.7902388804695468
+Natural Language Processing,Cloud Architect,0.7831952716202939
+Natural Language Processing,Solutions Engineer,0.8313438125167059
+Natural Language Processing,Applications Engineer,0.7877367074652466
+Natural Language Processing,Machine Learning Engineer,0.8229151081901966
+Natural Language Processing,Software Development Engineer,0.8010428839588064
+Natural Language Processing,Software Developer,0.8182363146786545
+Natural Language Processing,Software Architect,0.7927463537015338
+Natural Language Processing,Quality Assurance,0.8107037187041155
+Natural Language Processing,Web Developer,0.8348169577655924
+Natural Language Processing,Network Engineer,0.7687528623952786
+Natural Language Processing,Network Technician,0.7847873069801934
+Natural Language Processing,Hardware Engineer,0.7875587266377801
+Natural Language Processing,Computer Scientist,0.8052498711720555
+Natural Language Processing,Data Analyst,0.7957623327575312
+Natural Language Processing,Data Scientist,0.8035848876069055
+Natural Language Processing,Developer,0.7756064742503102
+Natural Language Processing,Web Engineer,0.806402108024301
+Natural Language Processing,Computer Engineer,0.7932754499361399
+Natural Language Processing,Firmware Engineer,0.8195728412867288
+Natural Language Processing,System Analyst,0.8111327041210392
+Natural Language Processing,Test Engineer,0.7933893035977138
+Natural Language Processing,Systems Engineer,0.8085377659865105
+Natural Language Processing,Data Engineer,0.8200232449583948
+Natural Language Processing,Crybersecurity Engineer,0.8105166729003175
+Natural Language Processing,User Interface Designer,0.7971255160106392
+Computational Linguistics I,Software Engineer,0.828206786738555
+Computational Linguistics I,Front-end Engineer,0.8544889137686758
+Computational Linguistics I,Frontend Engineer,0.8563845349336751
+Computational Linguistics I,Back-end Engineer,0.8442486865447019
+Computational Linguistics I,Backend Engineer,0.8255577997449195
+Computational Linguistics I,Full-stack Engineer,0.8420624046730694
+Computational Linguistics I,Full Stack Engineer,0.8536067928198117
+Computational Linguistics I,DevOps Engineer,0.8260770456557185
+Computational Linguistics I,Software Reliability Engineer,0.823025791419399
+Computational Linguistics I,Cloud Engineer,0.8486122477759168
+Computational Linguistics I,Cloud Architect,0.8450970447894919
+Computational Linguistics I,Solutions Engineer,0.8363095815273041
+Computational Linguistics I,Applications Engineer,0.8323216562128473
+Computational Linguistics I,Machine Learning Engineer,0.874580221453229
+Computational Linguistics I,Software Development Engineer,0.7895044741400912
+Computational Linguistics I,Software Developer,0.8176814202364151
+Computational Linguistics I,Software Architect,0.7927133320934343
+Computational Linguistics I,Quality Assurance,0.8556492472705919
+Computational Linguistics I,Web Developer,0.839530823457661
+Computational Linguistics I,Network Engineer,0.7965458998571935
+Computational Linguistics I,Network Technician,0.8203610783359114
+Computational Linguistics I,Hardware Engineer,0.8201733081212268
+Computational Linguistics I,Computer Scientist,0.8602787598986488
+Computational Linguistics I,Data Analyst,0.7647259821107428
+Computational Linguistics I,Data Scientist,0.821321355854579
+Computational Linguistics I,Developer,0.8483665428213539
+Computational Linguistics I,Web Engineer,0.844950567353268
+Computational Linguistics I,Computer Engineer,0.8004712116534337
+Computational Linguistics I,Firmware Engineer,0.8622444110066105
+Computational Linguistics I,System Analyst,0.8659496662950219
+Computational Linguistics I,Test Engineer,0.8017965649194843
+Computational Linguistics I,Systems Engineer,0.8137224976865391
+Computational Linguistics I,Data Engineer,0.8254543303967032
+Computational Linguistics I,Crybersecurity Engineer,0.8539753739714285
+Computational Linguistics I,User Interface Designer,0.8602884291093186
+Foundations of Robotics,Software Engineer,0.8001423869265025
+Foundations of Robotics,Front-end Engineer,0.8353333606417013
+Foundations of Robotics,Frontend Engineer,0.8403256647349755
+Foundations of Robotics,Back-end Engineer,0.7975115243170542
+Foundations of Robotics,Backend Engineer,0.796016267869357
+Foundations of Robotics,Full-stack Engineer,0.8266605147404668
+Foundations of Robotics,Full Stack Engineer,0.8005181393735604
+Foundations of Robotics,DevOps Engineer,0.7776741369981971
+Foundations of Robotics,Software Reliability Engineer,0.8152318593007699
+Foundations of Robotics,Cloud Engineer,0.8021127589090233
+Foundations of Robotics,Cloud Architect,0.8318871022834196
+Foundations of Robotics,Solutions Engineer,0.8444881425362026
+Foundations of Robotics,Applications Engineer,0.7850422770870608
+Foundations of Robotics,Machine Learning Engineer,0.8072839663731177
+Foundations of Robotics,Software Development Engineer,0.8040449149939888
+Foundations of Robotics,Software Developer,0.783505139815406
+Foundations of Robotics,Software Architect,0.7754213501681555
+Foundations of Robotics,Quality Assurance,0.807472878749611
+Foundations of Robotics,Web Developer,0.8245569828458841
+Foundations of Robotics,Network Engineer,0.7914299980618633
+Foundations of Robotics,Network Technician,0.7907420093752973
+Foundations of Robotics,Hardware Engineer,0.7943247556176103
+Foundations of Robotics,Computer Scientist,0.8007347178815114
+Foundations of Robotics,Data Analyst,0.7442458568906122
+Foundations of Robotics,Data Scientist,0.8084768644424635
+Foundations of Robotics,Developer,0.8019386261506812
+Foundations of Robotics,Web Engineer,0.8116567767727088
+Foundations of Robotics,Computer Engineer,0.8016376281121573
+Foundations of Robotics,Firmware Engineer,0.8225047441365488
+Foundations of Robotics,System Analyst,0.8021652152085249
+Foundations of Robotics,Test Engineer,0.8326135767063505
+Foundations of Robotics,Systems Engineer,0.7987446505281384
+Foundations of Robotics,Data Engineer,0.8063871945898471
+Foundations of Robotics,Crybersecurity Engineer,0.8165949863433217
+Foundations of Robotics,User Interface Designer,0.8203437193582142
+Computational Genetics and Genomics,Software Engineer,0.8306636008513235
+Computational Genetics and Genomics,Front-end Engineer,0.8431852620286071
+Computational Genetics and Genomics,Frontend Engineer,0.8282424088931315
+Computational Genetics and Genomics,Back-end Engineer,0.818160362974746
+Computational Genetics and Genomics,Backend Engineer,0.8068700998149589
+Computational Genetics and Genomics,Full-stack Engineer,0.8490004573602361
+Computational Genetics and Genomics,Full Stack Engineer,0.8959827865153354
+Computational Genetics and Genomics,DevOps Engineer,0.8496635225880528
+Computational Genetics and Genomics,Software Reliability Engineer,0.8262006331974059
+Computational Genetics and Genomics,Cloud Engineer,0.8687878374217122
+Computational Genetics and Genomics,Cloud Architect,0.8353229059558614
+Computational Genetics and Genomics,Solutions Engineer,0.8365193239851659
+Computational Genetics and Genomics,Applications Engineer,0.8513285375222137
+Computational Genetics and Genomics,Machine Learning Engineer,0.8633290970521699
+Computational Genetics and Genomics,Software Development Engineer,0.791343290738179
+Computational Genetics and Genomics,Software Developer,0.8373926665525704
+Computational Genetics and Genomics,Software Architect,0.7831461150843602
+Computational Genetics and Genomics,Quality Assurance,0.8731060306672673
+Computational Genetics and Genomics,Web Developer,0.835081963101723
+Computational Genetics and Genomics,Network Engineer,0.8122153370424154
+Computational Genetics and Genomics,Network Technician,0.8293771365336186
+Computational Genetics and Genomics,Hardware Engineer,0.8300702955131819
+Computational Genetics and Genomics,Computer Scientist,0.881120557448559
+Computational Genetics and Genomics,Data Analyst,0.783277449548806
+Computational Genetics and Genomics,Data Scientist,0.8254371979015546
+Computational Genetics and Genomics,Developer,0.8284435358656835
+Computational Genetics and Genomics,Web Engineer,0.8540325970299849
+Computational Genetics and Genomics,Computer Engineer,0.8030180258435602
+Computational Genetics and Genomics,Firmware Engineer,0.8719419884404889
+Computational Genetics and Genomics,System Analyst,0.8837575558912728
+Computational Genetics and Genomics,Test Engineer,0.8044885227863321
+Computational Genetics and Genomics,Systems Engineer,0.8161793818856475
+Computational Genetics and Genomics,Data Engineer,0.82884634666101
+Computational Genetics and Genomics,Crybersecurity Engineer,0.8617150583434376
+Computational Genetics and Genomics,User Interface Designer,0.8525248181290483
+Introduction to Machine Learning,Software Engineer,0.8054132080934746
+Introduction to Machine Learning,Front-end Engineer,0.911416780322555
+Introduction to Machine Learning,Frontend Engineer,0.9114259644877988
+Introduction to Machine Learning,Back-end Engineer,0.778877053682657
+Introduction to Machine Learning,Backend Engineer,0.7818135331854841
+Introduction to Machine Learning,Full-stack Engineer,0.884456613617222
+Introduction to Machine Learning,Full Stack Engineer,0.8064759885527499
+Introduction to Machine Learning,DevOps Engineer,0.8229205343558318
+Introduction to Machine Learning,Software Reliability Engineer,0.8963521265577117
+Introduction to Machine Learning,Cloud Engineer,0.8125724920699795
+Introduction to Machine Learning,Cloud Architect,0.9016975973110495
+Introduction to Machine Learning,Solutions Engineer,0.8403632667094574
+Introduction to Machine Learning,Applications Engineer,0.8196721006988739
+Introduction to Machine Learning,Machine Learning Engineer,0.8080466533027125
+Introduction to Machine Learning,Software Development Engineer,0.7733720842801171
+Introduction to Machine Learning,Software Developer,0.7735988657119526
+Introduction to Machine Learning,Software Architect,0.7707337052463363
+Introduction to Machine Learning,Quality Assurance,0.8124636059914714
+Introduction to Machine Learning,Web Developer,0.9131705076054117
+Introduction to Machine Learning,Network Engineer,0.8203212482472615
+Introduction to Machine Learning,Network Technician,0.819580746709396
+Introduction to Machine Learning,Hardware Engineer,0.8098357819169708
+Introduction to Machine Learning,Computer Scientist,0.8083740547518072
+Introduction to Machine Learning,Data Analyst,0.7550958085011381
+Introduction to Machine Learning,Data Scientist,0.8133226352996494
+Introduction to Machine Learning,Developer,0.885348058530487
+Introduction to Machine Learning,Web Engineer,0.83009985661489
+Introduction to Machine Learning,Computer Engineer,0.7735017990719546
+Introduction to Machine Learning,Firmware Engineer,0.8515691495500037
+Introduction to Machine Learning,System Analyst,0.8219866274498138
+Introduction to Machine Learning,Test Engineer,0.7882395441541008
+Introduction to Machine Learning,Systems Engineer,0.7786487026777126
+Introduction to Machine Learning,Data Engineer,0.7949792367250155
+Introduction to Machine Learning,Crybersecurity Engineer,0.8085982438548442
+Introduction to Machine Learning,User Interface Designer,0.9056140876999681
+Machine Learning for Data Science,Software Engineer,0.8294853792064578
+Machine Learning for Data Science,Front-end Engineer,0.8679101575478307
+Machine Learning for Data Science,Frontend Engineer,0.8403006972722169
+Machine Learning for Data Science,Back-end Engineer,0.8046000398634924
+Machine Learning for Data Science,Backend Engineer,0.8061312385956818
+Machine Learning for Data Science,Full-stack Engineer,0.831035987287768
+Machine Learning for Data Science,Full Stack Engineer,0.8389500715501437
+Machine Learning for Data Science,DevOps Engineer,0.8664848220530477
+Machine Learning for Data Science,Software Reliability Engineer,0.8577421715092821
+Machine Learning for Data Science,Cloud Engineer,0.8313937793243993
+Machine Learning for Data Science,Cloud Architect,0.8423252997632751
+Machine Learning for Data Science,Solutions Engineer,0.8462641934889306
+Machine Learning for Data Science,Applications Engineer,0.8444892007655644
+Machine Learning for Data Science,Machine Learning Engineer,0.8260163507104993
+Machine Learning for Data Science,Software Development Engineer,0.7892547251829742
+Machine Learning for Data Science,Software Developer,0.8112136477497193
+Machine Learning for Data Science,Software Architect,0.7799532854760057
+Machine Learning for Data Science,Quality Assurance,0.8342932979098092
+Machine Learning for Data Science,Web Developer,0.9168202470504012
+Machine Learning for Data Science,Network Engineer,0.8205810969854203
+Machine Learning for Data Science,Network Technician,0.8472375702252853
+Machine Learning for Data Science,Hardware Engineer,0.8229229015332704
+Machine Learning for Data Science,Computer Scientist,0.8422077848020744
+Machine Learning for Data Science,Data Analyst,0.7690077908759494
+Machine Learning for Data Science,Data Scientist,0.8430097733203998
+Machine Learning for Data Science,Developer,0.8400747564753284
+Machine Learning for Data Science,Web Engineer,0.8500798888709478
+Machine Learning for Data Science,Computer Engineer,0.7941675180096706
+Machine Learning for Data Science,Firmware Engineer,0.8826163549484849
+Machine Learning for Data Science,System Analyst,0.8424362224175763
+Machine Learning for Data Science,Test Engineer,0.8033205325306185
+Machine Learning for Data Science,Systems Engineer,0.7979282017040408
+Machine Learning for Data Science,Data Engineer,0.8222737584813863
+Machine Learning for Data Science,Crybersecurity Engineer,0.8285838549505111
+Machine Learning for Data Science,User Interface Designer,0.8561158681722935
+Mathematical Foundations of Machine Learning,Software Engineer,0.8553504963795414
+Mathematical Foundations of Machine Learning,Front-end Engineer,0.855276892877735
+Mathematical Foundations of Machine Learning,Frontend Engineer,0.8360711434098478
+Mathematical Foundations of Machine Learning,Back-end Engineer,0.796462780062012
+Mathematical Foundations of Machine Learning,Backend Engineer,0.7957722432301493
+Mathematical Foundations of Machine Learning,Full-stack Engineer,0.8386248972761599
+Mathematical Foundations of Machine Learning,Full Stack Engineer,0.811443960030817
+Mathematical Foundations of Machine Learning,DevOps Engineer,0.8424575149116768
+Mathematical Foundations of Machine Learning,Software Reliability Engineer,0.8422268351217386
+Mathematical Foundations of Machine Learning,Cloud Engineer,0.8367406454996043
+Mathematical Foundations of Machine Learning,Cloud Architect,0.8425699299824214
+Mathematical Foundations of Machine Learning,Solutions Engineer,0.8554126492888976
+Mathematical Foundations of Machine Learning,Applications Engineer,0.8614170798616485
+Mathematical Foundations of Machine Learning,Machine Learning Engineer,0.8490439073703272
+Mathematical Foundations of Machine Learning,Software Development Engineer,0.7892468497564422
+Mathematical Foundations of Machine Learning,Software Developer,0.7917224333794894
+Mathematical Foundations of Machine Learning,Software Architect,0.762851981057487
+Mathematical Foundations of Machine Learning,Quality Assurance,0.8426254342165527
+Mathematical Foundations of Machine Learning,Web Developer,0.8959188723931383
+Mathematical Foundations of Machine Learning,Network Engineer,0.8444974494298151
+Mathematical Foundations of Machine Learning,Network Technician,0.8292216592756901
+Mathematical Foundations of Machine Learning,Hardware Engineer,0.8202082011506523
+Mathematical Foundations of Machine Learning,Computer Scientist,0.8543158252193284
+Mathematical Foundations of Machine Learning,Data Analyst,0.7730174814769911
+Mathematical Foundations of Machine Learning,Data Scientist,0.8260452514463337
+Mathematical Foundations of Machine Learning,Developer,0.8442197930774631
+Mathematical Foundations of Machine Learning,Web Engineer,0.8684075998660282
+Mathematical Foundations of Machine Learning,Computer Engineer,0.8062831825464493
+Mathematical Foundations of Machine Learning,Firmware Engineer,0.8946880987291094
+Mathematical Foundations of Machine Learning,System Analyst,0.8530737267211963
+Mathematical Foundations of Machine Learning,Test Engineer,0.7882018103909125
+Mathematical Foundations of Machine Learning,Systems Engineer,0.7800995376753312
+Mathematical Foundations of Machine Learning,Data Engineer,0.8081209147783002
+Mathematical Foundations of Machine Learning,Crybersecurity Engineer,0.8171588061861257
+Mathematical Foundations of Machine Learning,User Interface Designer,0.8777361364937688
+Introduction to Reinforcement Learning,Software Engineer,0.786959980439436
+Introduction to Reinforcement Learning,Front-end Engineer,0.8914473688391874
+Introduction to Reinforcement Learning,Frontend Engineer,0.8874046948814671
+Introduction to Reinforcement Learning,Back-end Engineer,0.7656732165424539
+Introduction to Reinforcement Learning,Backend Engineer,0.7716199187328048
+Introduction to Reinforcement Learning,Full-stack Engineer,0.8647076692976852
+Introduction to Reinforcement Learning,Full Stack Engineer,0.7859145121873994
+Introduction to Reinforcement Learning,DevOps Engineer,0.8071083573664449
+Introduction to Reinforcement Learning,Software Reliability Engineer,0.8770611183724214
+Introduction to Reinforcement Learning,Cloud Engineer,0.8056807808595294
+Introduction to Reinforcement Learning,Cloud Architect,0.8805153830718715
+Introduction to Reinforcement Learning,Solutions Engineer,0.8361911558807047
+Introduction to Reinforcement Learning,Applications Engineer,0.8142804374576822
+Introduction to Reinforcement Learning,Machine Learning Engineer,0.7904926721017214
+Introduction to Reinforcement Learning,Software Development Engineer,0.7669532643687302
+Introduction to Reinforcement Learning,Software Developer,0.7584728150852482
+Introduction to Reinforcement Learning,Software Architect,0.7579540091142338
+Introduction to Reinforcement Learning,Quality Assurance,0.7953048759981096
+Introduction to Reinforcement Learning,Web Developer,0.8634203933730416
+Introduction to Reinforcement Learning,Network Engineer,0.8193317179305225
+Introduction to Reinforcement Learning,Network Technician,0.804061326827258
+Introduction to Reinforcement Learning,Hardware Engineer,0.7998882882213889
+Introduction to Reinforcement Learning,Computer Scientist,0.8005423863169348
+Introduction to Reinforcement Learning,Data Analyst,0.7484918706398257
+Introduction to Reinforcement Learning,Data Scientist,0.7951077485926759
+Introduction to Reinforcement Learning,Developer,0.87244730788746
+Introduction to Reinforcement Learning,Web Engineer,0.8293909141784341
+Introduction to Reinforcement Learning,Computer Engineer,0.7648334255290543
+Introduction to Reinforcement Learning,Firmware Engineer,0.8459054717076806
+Introduction to Reinforcement Learning,System Analyst,0.8027906157562732
+Introduction to Reinforcement Learning,Test Engineer,0.7726490530094173
+Introduction to Reinforcement Learning,Systems Engineer,0.7628323750733679
+Introduction to Reinforcement Learning,Data Engineer,0.777084192314943
+Introduction to Reinforcement Learning,Crybersecurity Engineer,0.7785021583613181
+Introduction to Reinforcement Learning,User Interface Designer,0.8967481030805353
+Introduction to Computational Complexity,Software Engineer,0.8126165015824451
+Introduction to Computational Complexity,Front-end Engineer,0.9238857800939309
+Introduction to Computational Complexity,Frontend Engineer,0.917475018451292
+Introduction to Computational Complexity,Back-end Engineer,0.8072148519792017
+Introduction to Computational Complexity,Backend Engineer,0.8000034401118599
+Introduction to Computational Complexity,Full-stack Engineer,0.9154212870375324
+Introduction to Computational Complexity,Full Stack Engineer,0.8251487650320424
+Introduction to Computational Complexity,DevOps Engineer,0.8393373239278723
+Introduction to Computational Complexity,Software Reliability Engineer,0.896241445964424
+Introduction to Computational Complexity,Cloud Engineer,0.8534571675085337
+Introduction to Computational Complexity,Cloud Architect,0.9232679284019214
+Introduction to Computational Complexity,Solutions Engineer,0.8375512307166376
+Introduction to Computational Complexity,Applications Engineer,0.8582826018451915
+Introduction to Computational Complexity,Machine Learning Engineer,0.8634548827580373
+Introduction to Computational Complexity,Software Development Engineer,0.7775144922202983
+Introduction to Computational Complexity,Software Developer,0.8041878698569194
+Introduction to Computational Complexity,Software Architect,0.767315363062828
+Introduction to Computational Complexity,Quality Assurance,0.8547689745351749
+Introduction to Computational Complexity,Web Developer,0.8359226771423085
+Introduction to Computational Complexity,Network Engineer,0.8360812193753684
+Introduction to Computational Complexity,Network Technician,0.8370937739259862
+Introduction to Computational Complexity,Hardware Engineer,0.8373815807565514
+Introduction to Computational Complexity,Computer Scientist,0.8663370072387242
+Introduction to Computational Complexity,Data Analyst,0.7605937220990204
+Introduction to Computational Complexity,Data Scientist,0.8296473879923806
+Introduction to Computational Complexity,Developer,0.9053621944141971
+Introduction to Computational Complexity,Web Engineer,0.861995433614356
+Introduction to Computational Complexity,Computer Engineer,0.7927261597652143
+Introduction to Computational Complexity,Firmware Engineer,0.8754913535424796
+Introduction to Computational Complexity,System Analyst,0.8745802057111253
+Introduction to Computational Complexity,Test Engineer,0.7951549436517427
+Introduction to Computational Complexity,Systems Engineer,0.7988645347347154
+Introduction to Computational Complexity,Data Engineer,0.8092636096320597
+Introduction to Computational Complexity,Crybersecurity Engineer,0.8400436604153845
+Introduction to Computational Complexity,User Interface Designer,0.9337609962798433
+Introduction to Cryptography,Software Engineer,0.8136801637058709
+Introduction to Cryptography,Front-end Engineer,0.9099714624436115
+Introduction to Cryptography,Frontend Engineer,0.908379120107982
+Introduction to Cryptography,Back-end Engineer,0.8025680150661847
+Introduction to Cryptography,Backend Engineer,0.7854076382421198
+Introduction to Cryptography,Full-stack Engineer,0.8878532133726484
+Introduction to Cryptography,Full Stack Engineer,0.8105840721297765
+Introduction to Cryptography,DevOps Engineer,0.801067649674773
+Introduction to Cryptography,Software Reliability Engineer,0.8838496627470055
+Introduction to Cryptography,Cloud Engineer,0.8119430099057485
+Introduction to Cryptography,Cloud Architect,0.8979782782749681
+Introduction to Cryptography,Solutions Engineer,0.8139915402613942
+Introduction to Cryptography,Applications Engineer,0.8166938593397667
+Introduction to Cryptography,Machine Learning Engineer,0.8320954317500564
+Introduction to Cryptography,Software Development Engineer,0.7796009347082556
+Introduction to Cryptography,Software Developer,0.7884679431355788
+Introduction to Cryptography,Software Architect,0.763203825126159
+Introduction to Cryptography,Quality Assurance,0.8135861345506172
+Introduction to Cryptography,Web Developer,0.8133214870261377
+Introduction to Cryptography,Network Engineer,0.8128720202379205
+Introduction to Cryptography,Network Technician,0.8131384630650218
+Introduction to Cryptography,Hardware Engineer,0.851825956039231
+Introduction to Cryptography,Computer Scientist,0.8957578415912268
+Introduction to Cryptography,Data Analyst,0.738582221037732
+Introduction to Cryptography,Data Scientist,0.8236299257415962
+Introduction to Cryptography,Developer,0.8691404188484632
+Introduction to Cryptography,Web Engineer,0.8261302959309689
+Introduction to Cryptography,Computer Engineer,0.7963798169831222
+Introduction to Cryptography,Firmware Engineer,0.839495047234222
+Introduction to Cryptography,System Analyst,0.8228124613942623
+Introduction to Cryptography,Test Engineer,0.7942970865872356
+Introduction to Cryptography,Systems Engineer,0.7846250905014109
+Introduction to Cryptography,Data Engineer,0.7938208115597241
+Introduction to Cryptography,Crybersecurity Engineer,0.8093527535229358
+Introduction to Cryptography,User Interface Designer,0.9003285827335188
